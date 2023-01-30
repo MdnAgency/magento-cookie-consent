@@ -11,6 +11,20 @@ This module leverage the new consent functionality of Google Tag Manager (see [G
 
 The consent functionality isn't enabled by default in GTM therefore you need to manually enable that feature in your Google Tag Manager dashboard. (see [GTM documentation](https://support.google.com/tagmanager/answer/10718549#consent-overview))
 
+# Installation 
+
+To install the Magento 2 GTM Cookie consent, simply run the command below:
+
+```bash
+composer require maisondunet/module-gtm-cookie-consent
+```
+
+To enable the module:
+
+```bash
+bin/magento module:enable Maisondunet_CookieConsent
+```
+
 # Module configuration
 
 Module configuration is located at :

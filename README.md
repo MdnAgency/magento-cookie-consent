@@ -43,7 +43,7 @@ Stores > Configuration > General > Cookie Consent
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | Cookie Name                         | Name of the cookie used to store user consent                                                                                    |
 | Force user consent                  | Block the UI until user action                                                                                                   |
-| Manage page script                  | Managed inline script (see (cookie-consent documentation)[https://github.com/orestbida/cookieconsent#how-to-blockmanage-scripts] |
+| Manage page script                  | Managed inline script (see [cookie-consent documentation](https://github.com/orestbida/cookieconsent#how-to-blockmanage-scripts) |
 
 ## Auto Clear Option
 

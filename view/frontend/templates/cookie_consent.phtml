@@ -1,0 +1,37 @@
+<?php
+/**
+ * Created by Maisondunet.
+ *
+ * @project     dexergie
+ * @author      vincent
+ * @copyright   2023 LA MAISON DU NET
+ * @link        https://www.maisondunet.com
+ */
+/** @var \Maisondunet\CookieConsent\Block\CookieConsent $block */
+/** @var \Magento\Framework\Escaper $escaper */
+
+?>
+<script type="application/json" id="mdn_cookie_consent_i18n">
+    <?= $block->getTranslations(); ?>
+</script>
+<script type="text/javascript">
+    window.cc_wrapper_config = <?= $block->getConfig()->getJson(); ?>;
+</script>
+<script src="<?= $block->getViewFileUrl("Maisondunet_CookieConsent::js/cookie-consent.min.js") ?>"></script>
+<script type="text/javascript">
+    // Define dataLayer and the gtag function.
+    window.dataLayer = window.dataLayer || [];
+    (function () {
+        let ccw = CookieConsentWrapper;
+        let locale = "<?= $escaper->escapeJs($block->getLocale()) ?>";
+        let i18n = JSON.parse(document.getElementById("mdn_cookie_consent_i18n").textContent);
+        ccw.addTranslations(locale, i18n);
+
+        let gtag = function(){dataLayer.push(arguments);}
+        let default_consent = {};
+        cc_wrapper_config.storage_pool.forEach((s) => {
+            default_consent[s.name] = s.enabled_by_default ? "granted" : "denied"
+        });
+        gtag('consent', 'default', default_consent);
+    })();
+</script>

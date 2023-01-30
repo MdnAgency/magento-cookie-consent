@@ -1,0 +1,20 @@
+{
+  "name": "maisondunet/module-gtm-cookie-consent",
+  "version": "1.0.0",
+  "description": "A simple cookie consent module for magento. It relies on new GTM consent functionality.",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*"
+  },
+  "license": [
+      "OSL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Maisondunet\\CookieConsent\\": ""
+    }
+  }
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+
+    <virtualType
+        name="Maisondunet\CookieConsent\Model\Config\Source\ModalOption\Layout"
+        type="Maisondunet\CookieConsent\Model\Config\OptionSource">
+        <arguments>
+            <argument name="values" xsi:type="array">
+                <item name="box" xsi:type="string">Box</item>
+                <item name="cloud" xsi:type="string">Cloud</item>
+                <item name="bar" xsi:type="string">Bar</item>
+            </argument>
+        </arguments>
+    </virtualType>
+
+    <virtualType
+        name="Maisondunet\CookieConsent\Model\Config\Source\ModalOption\SecondaryButtonRole"
+        type="Maisondunet\CookieConsent\Model\Config\OptionSource">
+        <arguments>
+            <argument name="values" xsi:type="array">
+                <item name="accept_necessary" xsi:type="string">Accept Necessary</item>
+                <item name="settings" xsi:type="string">Settings</item>
+            </argument>
+        </arguments>
+    </virtualType>
+
+    <virtualType
+        name="Maisondunet\CookieConsent\Model\Config\Source\ModalOption\Position"
+        type="Maisondunet\CookieConsent\Model\Config\OptionSource">
+        <arguments>
+            <argument name="values" xsi:type="array">
+                <item name="bottom left" xsi:type="string">Bottom Left</item>
+                <item name="bottom center" xsi:type="string">Bottom Center</item>
+                <item name="bottom right" xsi:type="string">Bottom Right</item>
+
+                <item name="middle left" xsi:type="string">Middle Left</item>
+                <item name="middle center" xsi:type="string">Middle Center</item>
+                <item name="middle right" xsi:type="string">Middle Right</item>
+
+                <item name="top left" xsi:type="string">Top Left</item>
+                <item name="top center" xsi:type="string">Top Center</item>
+                <item name="top right" xsi:type="string">Top Right</item>
+            </argument>
+        </arguments>
+    </virtualType>
+
+    <virtualType
+        name="Maisondunet\CookieConsent\Model\Config\Source\SettingModalOption\Layout"
+        type="Maisondunet\CookieConsent\Model\Config\OptionSource">
+        <arguments>
+            <argument name="values" xsi:type="array">
+                <item name="box" xsi:type="string">Box</item>
+                <item name="bar" xsi:type="string">Bar</item>
+            </argument>
+        </arguments>
+    </virtualType>
+
+    <virtualType
+        name="Maisondunet\CookieConsent\Model\Config\Source\SettingModalOption\Transition"
+        type="Maisondunet\CookieConsent\Model\Config\OptionSource">
+        <arguments>
+            <argument name="values" xsi:type="array">
+                <item name="zoom" xsi:type="string">Zoom</item>
+                <item name="slide" xsi:type="string">Slide</item>
+            </argument>
+        </arguments>
+    </virtualType>
+</config>

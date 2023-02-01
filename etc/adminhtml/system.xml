@@ -73,7 +73,7 @@
                     <label>Transition</label>
                     <source_model>Maisondunet\CookieConsent\Model\Config\Source\SettingModalOption\Transition</source_model>
                 </field>
-                <field id="modal_trigger_selector" translate="label" type="select" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
+                <field id="modal_trigger_selector" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1" canRestore="1">
                     <label>Modal trigger selector</label>
                     <comment>CSS selector for modal trigger button</comment>
                 </field>

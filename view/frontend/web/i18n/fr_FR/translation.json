@@ -7,11 +7,11 @@
   "consent_modal_secondary_btn_settings" : "Personnaliser",
   "consent_modal_secondary_btn_accept_necessary" : "Accepter nécessaire",
 
-  "settings_modal_title" : "Cookie settings",
+  "settings_modal_title" : "Paramètres des cookies",
   "settings_modal_save_settings_btn" : "Enregistrer les paramètres",
   "settings_modal_accept_all_btn" : "Accepter tout",
   "settings_modal_reject_all_btn" : "Accepter nécessaire",
-  "settings_modal_close_btn_label" : "Close",
+  "settings_modal_close_btn_label" : "Fermer",
 
   "settings_modal_before_consent_title" : "Utilisation des cookies",
   "settings_modal_before_consent_description" : "Nous utilisons des cookies pour assurer les fonctionnalités de base du site web et pour améliorer votre expérience en ligne. Vous pouvez choisir pour chaque catégorie d'accepter/de refuser quand vous le souhaitez.",
@@ -37,7 +37,7 @@
   "cookie_table_col_name" : " Nom ",
   "cookie_table_col_purpose" : "Description",
   "cookie_table_col_processing_time" : "Expiration",
-  "cookie_table_col_provider" : "Provider",
+  "cookie_table_col_provider" : "Source",
   "cookie_table_col_type" : "Type",
   "cookie_table_col_link": "Lien",
   "cookie_table_col_link_find_out_more" : "Lien",
@@ -46,8 +46,8 @@
   "processing_time_session" : "Session",
   "processing_time_persistent" : "Persistant",
 
-  "cookie_type_1st_party" : "1st party",
-  "cookie_type_3rd_party" : "3rd party",
+  "cookie_type_1st_party" : "Premier niveau",
+  "cookie_type_3rd_party" : "Troisième niveau",
 
   "find_out_more" : "En savoir plus"
 }

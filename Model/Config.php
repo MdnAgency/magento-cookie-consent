@@ -43,7 +43,7 @@ class Config
         $cfg["consent_modal_options"]["show_third_button"] = !!$cfg["consent_modal_options"]["show_third_button"];
 
         // Adapt storage option
-        $storage_names = ["functionality_storage","personalization_storage","security_storage","ad_storage","analytics_storage"];
+        $storage_names = ["functionality_storage","personalization_storage","security_storage","ad_storage","analytics_storage","ad_user_data","ad_personalization"];
         $cfg["storage_pool"] = [];
         foreach ($storage_names as $storage_name) {
             $config = $cfg[$storage_name];

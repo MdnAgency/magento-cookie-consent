@@ -46,6 +46,16 @@
                 <display_in_widget>1</display_in_widget>
                 <readonly>0</readonly>
             </ad_storage>
+            <ad_user_data>
+                <enabled_by_default>0</enabled_by_default>
+                <display_in_widget>1</display_in_widget>
+                <readonly>0</readonly>
+            </ad_user_data>
+            <ad_personalization>
+                <enabled_by_default>0</enabled_by_default>
+                <display_in_widget>1</display_in_widget>
+                <readonly>0</readonly>
+            </ad_personalization>
             <analytics_storage>
                 <enabled_by_default>0</enabled_by_default>
                 <display_in_widget>1</display_in_widget>

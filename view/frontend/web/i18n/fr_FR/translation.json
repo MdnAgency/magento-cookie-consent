@@ -35,10 +35,10 @@
   "analytics_storage_description" : "Les cookies analytiques nous permettent de mesurer les performances de notre site web et de nos campagnes publicitaires. Nous les utilisons pour déterminer le nombre de visites et les sources des visites sur notre site web. Nous traitons les données obtenues par le biais de ces cookies de manière agrégée, sans utiliser d'identifiants qui pointent vers des utilisateurs spécifiques de notre site web. Si vous désactivez l'utilisation des cookies d'analyse en relation avec votre visite, nous perdons la possibilité d'analyser les performances et d'optimiser nos mesures.",
 
   "ad_user_data_title" : "Cookies de partage de données",
-  "ad_user_data_description" : "Cookie de consentement pour le partage de données",
+  "ad_user_data_description" : "Le cookie de partage de données permet à notre site web de respecter les choix de confidentialité des utilisateurs en matière de publicité. En activant ce cookie, vous consentez à ce que nous envoyions des données utilisateur liées à la publicité à nos partenaires. Cela nous permet de personnaliser l'expérience publicitaire en fonction de vos préférences. Si vous choisissez de désactiver ce cookie, nous ne pourrons pas personnaliser les publicités selon vos préférences, mais vous continuerez à voir des publicités qui peuvent être moins pertinentes pour vous. Nous respectons votre choix et prenons en compte vos préférences en matière de publicité",
 
   "ad_personalization_title" : "Cookies de contenus personalisées",
-  "ad_personalization_description" : "Cookie de consentement pour recevoir des contenus personalisés",
+  "ad_personalization_description" : "Le cookie contenus personalisées permet à notre site web de personnaliser les publicités en fonction des préférences de chaque utilisateur. En autorisant ce cookie, vous consentez à la personnalisation de la publicité selon vos intérêts. Cela nous permet de fournir des publicités plus pertinentes et adaptées à vos besoins. Si vous choisissez de désactiver ce cookie, nous ne pourrons pas personnaliser les publicités selon vos préférences, mais vous continuerez à voir des publicités qui peuvent être moins pertinentes pour vous. Nous respectons votre choix et prenons en compte vos préférences en matière de publicité.",
 
   "cookie_table_col_name" : " Nom ",
   "cookie_table_col_purpose" : "Description",

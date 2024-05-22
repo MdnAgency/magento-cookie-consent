@@ -14,9 +14,7 @@ use Magento\Framework\Exception\LocalizedException;
 use Magento\Framework\Locale\ResolverInterface;
 use Magento\Framework\View\Asset\Repository as AssetRepository;
 use Magento\Framework\View\Element\Template;
-use Magento\Framework\Module\Dir\Reader as ModuleDirReader;
-use Magento\Framework\Filesystem\Driver\File;
-use Magento\Framework\Exception\FileSystemException;
+use Psr\Log\LoggerInterface;
 
 use Maisondunet\CookieConsent\Model\Config;
 
@@ -28,24 +26,21 @@ class CookieConsent extends Template
     private ResolverInterface $localeResolver;
     private AssetRepository $assetRepository;
     private Config $config;
-    protected $moduleDirReader;
-    protected $file;
+    private $logger;    
 
     public function __construct(
-        ModuleDirReader $moduleDirReader,
-        File $file,
         ResolverInterface $localeResolver,
         AssetRepository $assetRepository,
         Template\Context $context,
         Config $config,
+        LoggerInterface $logger,
         array $data = []
     ) {
         parent::__construct($context, $data);
         $this->localeResolver = $localeResolver;
         $this->assetRepository = $assetRepository;
         $this->config = $config;
-        $this->moduleDirReader = $moduleDirReader;
-        $this->file = $file;        
+        $this->logger = $logger;
     }
 
     public function getLocale():string
@@ -59,8 +54,15 @@ class CookieConsent extends Template
      */
     public function getTranslations(): string
     {
-        list($moduleName,$filePath) = explode('::', self::TRANSLATION_FILE);
-        return $this->readFile($moduleName, $filePath);
+        try {
+            $content = $this->assetRepository->createAsset(self::TRANSLATION_FILE)->getContent();
+        } catch(Magento\Framework\View\Asset\File\NotFoundException $e) {
+            $content = $this->assetRepository->createAsset(self::TRANSLATION_FILE,["locale" => "en_US"])->getContent();
+            $localeCode = $this->getLocale();
+            $this->logger->critical("Maisondunet_CookieConsent:: the translation($localeCode) is missing and fallback to \"en_US\"");
+        }
+
+        return $content;
     }
 
     /**
@@ -69,22 +71,6 @@ class CookieConsent extends Template
     public function getConfig(): Config
     {
         return $this->config;
-    }
-
-    private function readFile($moduleName, $filePath)
-    {
-        try {
-            $localeCode = $this->getLocale();
-            $i18nDir = 'view/frontend/web/i18n/';
-            $modulePath = $this->moduleDirReader->getModuleDir('', $moduleName);
-            if(!$this->file->isExists("$modulePath/$i18nDir/$localeCode")) $localeCode = 'en_US';
-            $fullPath = "$modulePath/$i18nDir/$localeCode/$filePath";
-            $contents = $this->file->fileGetContents($fullPath);
-            return $contents;
-        } catch (FileSystemException $e) {
-            // Handle the exception as needed
-            throw new \Exception(__('Error reading file: %1', $e->getMessage()));
-        }
     }
 
 

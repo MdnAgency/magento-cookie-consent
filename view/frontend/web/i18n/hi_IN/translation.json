@@ -1,0 +1,51 @@
+{
+	"modal_trigger_title": "कुकी सेटिंग्स",
+  
+	"consent_modal_title": "हम कुकीज़ का उपयोग करते हैं!",
+	"consent_modal_description": "यह वेबसाइट अपने सही संचालन को सुनिश्चित करने के लिए आवश्यक कुकीज़ का उपयोग करती है और ट्रैकिंग कुकीज़ का उपयोग आपके साथ किस प्रकार प्रवर्तन किया जाता है को समझने के लिए। इनमें से अंतिम केवल सहमति के बाद सेट किया जाएगा।",
+	"consent_modal_primary_btn": "मैं सहमत हूँ",
+	"consent_modal_secondary_btn_settings": "कस्टमाइज़ करें",
+	"consent_modal_secondary_btn_accept_necessary": "जरुरी स्वीकार करें",
+  
+	"settings_modal_title": "कुकी सेटिंग्स",
+	"settings_modal_save_settings_btn": "सेटिंग्स सहेजें",
+	"settings_modal_accept_all_btn": "सभी स्वीकार करें",
+	"settings_modal_reject_all_btn": "जरुरी स्वीकार करें",
+	"settings_modal_close_btn_label": "बंद करें",
+  
+	"settings_modal_before_consent_title": "कुकी उपयोग",
+	"settings_modal_before_consent_description": "हम वेबसाइट के मौलिक कार्यों को सुनिश्चित करने के लिए कुकीज़ का उपयोग करते हैं और आपके ऑनलाइन अनुभव को बेहतर बनाने के लिए। आप प्रत्येक श्रेणी के लिए जब चाहें ऑप्ट-इन/आउट कर सकते हैं।",
+  
+	"settings_modal_after_consent_title": "अधिक जानकारी",
+	"settings_modal_after_consent_description": "कुकी पॉलिसी और आपके विकल्पों के संबंध में किसी भी प्रश्न के लिए कृपया हमसे संपर्क करें।",
+  
+	"functionality_storage_title": "कार्यक्षमता कुकीज़",
+	"functionality_storage_description": "ये कुकीज़ हमारी वेबसाइट के सही संचालन के लिए आवश्यक हैं। इन कुकीज़ के बिना, वेबसाइट सही ढंग से काम नहीं कर सकती है।",
+  
+	"personalization_storage_title": "व्यक्तिगतीकरण कुकीज़",
+	"personalization_storage_description": "व्यक्तिगतीकरण कुकीज़ किसी तीसरे पक्ष की कुकीज़ का उपयोग कर सकती हैं ताकि वे सामग्री को व्यक्तिगत बनाने और उपयोगकर्ताओं का ट्रैक कर सकें विभिन्न वेबसाइटों और उपकरणों पर।",
+  
+	"security_storage_title": "सुरक्षा कुकीज़",
+	"security_storage_description": "सुरक्षा कुकीज़ सुरक्षा संबंधित जानकारी के भंडारण की अनुमति देती हैं, जैसे प्रमाणीकरण, धोखाधड़ी से सुरक्षा, और उपयोगकर्ता की सुरक्षा के लिए अन्य साधन।",
+  
+	"ad_storage_title": "विज्ञापन कुकीज़",
+	"analytics_storage_description": "विश्लेषण कुकीज़ हमें हमारी वेबसाइट और हमारे विज्ञापन अभियानों के प्रदर्शन का मापन करने की अनुमति देती हैं। हम इन्हें हमारी वेबसाइट पर आने वाले दौरों की संख्या और स्रोतों को निर्धारित करने के लिए उपयोग करते हैं। हम इन कुकीज़ के माध्यम से प्राप्त डेटा को एकत्रित करके प्रसंग में प्रसंस्कृत करते हैं, हमारी वेबसाइट के विशिष्ट उपयोगकर्ताओं की पहचान करने के लिए पहचानकर्ता का उपयोग किए बिना। यदि आप अपने दौरे के संबंध में विश्लेषण कुकीज़ का उपयोग अक्षम करते हैं, तो हम प्रदर्शन का विश्लेषण करने और हमारे उपायों को अनुकूलित करने की क्षमता खो देते हैं।",
+
+	"cookie_table_col_name": "नाम",
+	"cookie_table_col_purpose": "विवरण",
+	"cookie_table_col_processing_time": "समाप्ति",
+	"cookie_table_col_provider": "प्रदाता",
+	"cookie_table_col_type": "प्रकार",
+	"cookie_table_col_link": "लिंक",
+	"cookie_table_col_link_find_out_more": "लिंक",
+	"cookie_table_col_category": "श्रेणी",
+  
+	"processing_time_session": "सत्र",
+	"processing_time_persistent": "स्थायी",
+  
+	"cookie_type_1st_party": "पहली पक्ष",
+	"cookie_type_3rd_party": "तीसरी पक्ष",
+  
+	"find_out_more": "अधिक जानें"
+}
+  

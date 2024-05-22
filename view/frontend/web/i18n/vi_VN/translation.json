@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Cài đặt Cookie",
+  
+	"consent_modal_title": "Chúng tôi sử dụng cookie!",
+	"consent_modal_description": "Trang web này sử dụng cookie cần thiết để đảm bảo hoạt động đúng cách và cookie theo dõi để hiểu cách bạn tương tác với nó. Cookie sau chỉ được thiết lập sau khi có sự đồng ý.",
+	"consent_modal_primary_btn": "Tôi đồng ý",
+	"consent_modal_secondary_btn_settings": "Tùy chỉnh",
+	"consent_modal_secondary_btn_accept_necessary": "Chấp nhận cần thiết",
+  
+	"settings_modal_title": "Cài đặt Cookie",
+	"settings_modal_save_settings_btn": "Lưu cài đặt",
+	"settings_modal_accept_all_btn": "Chấp nhận tất cả",
+	"settings_modal_reject_all_btn": "Chấp nhận cần thiết",
+	"settings_modal_close_btn_label": "Đóng",
+  
+	"settings_modal_before_consent_title": "Sử dụng Cookie",
+	"settings_modal_before_consent_description": "Chúng tôi sử dụng cookie để đảm bảo các chức năng cơ bản của trang web và nâng cao trải nghiệm trực tuyến của bạn. Bạn có thể chọn lựa cho mỗi danh mục để đồng ý/từ chối bất cứ lúc nào.",
+  
+	"settings_modal_after_consent_title": "Thông tin thêm",
+	"settings_modal_after_consent_description": "Đối với bất kỳ câu hỏi nào liên quan đến chính sách cookie của chúng tôi và lựa chọn của bạn, vui lòng liên hệ với chúng tôi.",
+  
+	"functionality_storage_title": "Cookie chức năng",
+	"functionality_storage_description": "Những cookie này là cần thiết để trang web của chúng tôi hoạt động đúng cách. Mà không có những cookie này, trang web có thể không hoạt động đúng cách.",
+  
+	"personalization_storage_title": "Cookie cá nhân hóa",
+	"personalization_storage_description": "Cookie cá nhân hóa có thể sử dụng cookie của bên thứ ba để giúp họ cá nhân hóa nội dung và theo dõi người dùng trên các trang web và thiết bị khác nhau.",
+  
+	"security_storage_title": "Cookie bảo mật",
+	"security_storage_description": "Cookie bảo mật cho phép lưu trữ thông tin liên quan đến bảo mật, chẳng hạn như xác thực, bảo vệ chống gian lận và các phương tiện khác để bảo vệ người dùng.",
+  
+	"ad_storage_title": "Cookie quảng cáo",
+	"ad_storage_description": "Cookie quảng cáo được chúng tôi hoặc đối tác của chúng tôi sử dụng để hiển thị nội dung hoặc quảng cáo phù hợp trên trang web của chúng tôi và trên các trang web của bên thứ ba. Điều này cho phép chúng tôi tạo hồ sơ dựa trên sở thích của bạn, gọi là các hồ sơ ẩn danh. Dựa trên thông tin này, thông thường không thể nhận dạng trực tiếp bạn là một cá nhân, vì chỉ có dữ liệu ẩn danh được sử dụng. Trừ khi bạn thể hiện sự đồng ý của mình, bạn sẽ không nhận được nội dung và quảng cáo được tùy chỉnh theo sở thích của bạn.",
+  
+	"analytics_storage_title": "Cookie phân tích",
+	"analytics_storage_description": "Cookie phân tích cho phép chúng tôi đo lường hiệu suất của trang web và các chiến dịch quảng cáo của chúng tôi. Chúng tôi sử dụng chúng để xác định số lượng truy cập và nguồn truy cập vào trang web của chúng tôi. Chúng tôi xử lý dữ liệu thu được thông qua những cookie này dưới dạng tổng hợp, mà không sử dụng các nhận dạng chỉ điểm đến người dùng cụ thể của trang web của chúng tôi. Nếu bạn tắt việc sử dụng cookie phân tích liên quan đến việc truy cập của mình, chúng tôi sẽ mất khả năng phân tích hiệu suất và tối ưu hóa các biện pháp của chúng tôi.",
+  
+	"cookie_table_col_name": "Tên",
+	"cookie_table_col_purpose": "Mô tả",
+	"cookie_table_col_processing_time": "Hết hạn",
+	"cookie_table_col_provider": "Nhà cung cấp",
+	"cookie_table_col_type": "Loại",
+	"cookie_table_col_link": "Liên kết",
+	"cookie_table_col_link_find_out_more": "Liên kết",
+	"cookie_table_col_category": "Danh mục",
+  
+	"processing_time_session": "Phiên",
+	"processing_time_persistent": "Cố định",
+  
+	"cookie_type_1st_party": "Bên 1",
+	"cookie_type_3rd_party": "Bên 3",
+  
+	"find_out_more": "Tìm hiểu thêm"
+  }
+  

@@ -1,0 +1,55 @@
+{
+	"modal_trigger_title": "Slapukų nustatymai",
+  
+	"consent_modal_title": "Mes naudojame slapukus!",
+	"consent_modal_description": "Ši svetainė naudoja būtinus slapukus, kad užtikrintų jos tinkamą veikimą, ir stebėjimo slapukus, kad suprastų, kaip su ja sąveikaujate. Paskutiniai bus nustatyti tik gavus jūsų sutikimą.",
+	"consent_modal_primary_btn": "Sutinku",
+	"consent_modal_secondary_btn_settings": "Adaptuoti",
+	"consent_modal_secondary_btn_accept_necessary": "Priimti būtinuosius",
+  
+	"settings_modal_title": "Slapukų nustatymai",
+	"settings_modal_save_settings_btn": "Išsaugoti nustatymus",
+	"settings_modal_accept_all_btn": "Priimti visus",
+	"settings_modal_reject_all_btn": "Priimti būtinuosius",
+	"settings_modal_close_btn_label": "Uždaryti",
+  
+	"settings_modal_before_consent_title": "Slapukų naudojimas",
+	"settings_modal_before_consent_description": "Mes naudojame slapukus, kad užtikrintume svetainės pagrindinį veikimą ir pagerintume jūsų interneto patirtį. Kiekvienai kategorijai galite pasirinkti, ar norite įjungti/išjungti bet kuriuo metu.",
+  
+	"settings_modal_after_consent_title": "Daugiau informacijos",
+	"settings_modal_after_consent_description": "Dėl klausimų dėl mano slapukų politikos ir jūsų pasirinkimų, prašome susisiekti su mumis.",
+  
+	"functionality_storage_title": "Funkciniai slapukai",
+	"functionality_storage_description": "Šie slapukai būtini mūsų svetainės tinkamam veikimui. Be jų, svetainė gali neveikti tinkamai.",
+  
+	"personalization_storage_title": "Asmeninimo slapukai",
+	"personalization_storage_description": "Asmeninimo slapukai gali naudoti trečiųjų šalių slapukus, kad padėtų jiems pritaikyti turinį ir sekė vartotojus skirtingose svetainėse ir įrenginiuose.",
+  
+	"security_storage_title": "Saugos slapukai",
+	"security_storage_description": "Saugos slapukai leidžia saugoti susijusią saugumo informaciją, tokią kaip autentifikacija, sukčių apsauga ir kitus būdus apsaugoti vartotoją.",
+  
+	"ad_storage_title": "Reklamos slapukai",
+	"ad_storage_description": "Reklamos slapukai naudojami mums arba mūsų partneriams rodyti jums susijusį turinį ar reklamą tiek mūsų svetainėje, tiek trečiųjų šalių svetainėse. Tai leidžia mums kurti profilius pagal jūsų interesus, taip vadinamus pseudonimizuotus profilius. Remiantis šia informacija, paprastai neįmanoma jūsų tiesiogiai identifikuoti kaip asmenį, nes naudojami tik pseudonimizuoti duomenys. Jei nepateikiate savo sutikimo, negausite turinio ir reklamų, pritaikytų jūsų interesams.",
+  
+	"analytics_storage_title": "Analitiniai slapukai",
+	"analytics_storage_description": "Analitiniai slapukai leidžia mums matuoti mūsų svetainės ir reklamos kampanijų veiksmingumą. Juos naudojame nustatyti apsilankymų skaičių ir apsilankymų šaltinius mūsų svetainėje. Perdavus šiuos slapukus gautus duomenis, apibendrintai juos apdorojame, nenaudodami identifikatorių, kurie rodytų konkrečius mūsų svetainės vartotojus. Jei išjungsite analitinių slapukų naudojimą susiję su jūsų apsilankymu, prarandame galimybę analizuoti veiklą ir optimizuoti priemones.",
+	
+	"cookie_table_col_name": "Pavadinimas",
+	"cookie_table_col_purpose": "Aprašymas",
+	"cookie_table_col_processing_time": "Galiojimo laikas",
+	"cookie_table_col_provider": "Teikėjas",
+	"cookie_table_col_type": "Tipas",
+	"cookie_table_col_link": "Nuoroda",
+	"cookie_table_col_link_find_out_more": "Nuoroda",
+	"cookie_table_col_category": "Kategorija",
+  
+	"processing_time_session": "Sesija",
+	"processing_time_persistent": "Pastovus",
+  
+	"cookie_type_1st_party": "Pirmosios šalies",
+	"cookie_type_3rd_party": "Trečiosios šalies",
+  
+	"find_out_more": "Sužinokite daugiau"
+  }
+   
+  

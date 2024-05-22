@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Vefkökur stillingar",
+  
+	"consent_modal_title": "Við notum vefkökur!",
+	"consent_modal_description": "Þessi vefsíða notar nauðsynlegar vefkökur til að tryggja rétta virkni hennar og kökur til að skilja hvernig þú samspilar henni. Síðarnefndu verða settar aðeins eftir samþykki þínu.",
+	"consent_modal_primary_btn": "Ég samþykki",
+	"consent_modal_secondary_btn_settings": "Sérsníða",
+	"consent_modal_secondary_btn_accept_necessary": "Samþykkja nauðsynlegar",
+  
+	"settings_modal_title": "Vefkökur stillingar",
+	"settings_modal_save_settings_btn": "Vista stillingar",
+	"settings_modal_accept_all_btn": "Samþykkja allar",
+	"settings_modal_reject_all_btn": "Samþykkja nauðsynlegar",
+	"settings_modal_close_btn_label": "Loka",
+  
+	"settings_modal_before_consent_title": "Nota vefkökur",
+	"settings_modal_before_consent_description": "Við notum vefkökur til að tryggja grunnstarfsemi vefsíðunnar og að auka þína upplifun á netinu. Þú getur valið fyrir hverja flokk hvort þú viljir aðgangur/útgangur hvenær sem er.",
+  
+	"settings_modal_after_consent_title": "Meiri upplýsingar",
+	"settings_modal_after_consent_description": "Fyrir hvaða spurningar sem varða stefnu mína um vefkökur og val þín, vinsamlegast hafðu samband við okkur.",
+  
+	"functionality_storage_title": "Starfsemi vefkökur",
+	"functionality_storage_description": "Þessar kökur eru nauðsynlegar fyrir rétta virkni vefsíðunnar okkar. Án þeirra gæti vefsíðan ekki virkað rétt.",
+  
+	"personalization_storage_title": "Sérsniðnar vefkökur",
+	"personalization_storage_description": "Sérsniðnar vefkökur geta notað vefkökur frá þriðja aðila til að hjálpa þeim að sérsníða efnið og rekja notendur á milli mismunandi vefsíðna og tæki.",
+  
+	"security_storage_title": "Öryggiskökur",
+	"security_storage_description": "Öryggiskökur leyfa geymslu á öryggisviðvaranlegum upplýsingum, svo sem auðkenningu, svikna vernd og öðrum aðferðum til að vernda notandann.",
+  
+	"ad_storage_title": "Auglýsingakökur",
+	"ad_storage_description": "Auglýsingakökur eru notuð af okkur eða samstarfsaðilum okkar til að sýna þér viðeigandi efni eða auglýsingar bæði á vefsíðunni okkar og á vefsíðum þriðja aðila. Þetta gerir okkur kleift að búa til myndir af þínum áhugamálum, svo kallaðar psevdónýmerar upplýsingar. Á grundvelli þessara upplýsinga er almennt ekki hægt að auðkenna þig beint sem einstakling, þar sem aðeins psevdónýmeraðar upplýsingar eru notuð. Nema þú útvegar samþykki þitt, munt þú ekki fá efni og auglýsingar sem sérsniðnar eftir þínum áhugamálum.",
+  
+	"analytics_storage_title": "Gögnakökur",
+	"analytics_storage_description": "Gögnakökur leyfa okkur að mæla frammistöðu vefsíðunnar okkar og auglýsingaferla okkar. Við notum þær til að ákvarða fjölda heimsókna og heimskilyrði heimsókna á vefsíðunni okkar. Við vinnum með gögnin sem fengin eru gegnum þessar kökur í heild, án þess að nota auðkenni sem benda til ákveðinna notenda á vefsíðunni okkar. Ef þú slökktir á notkun á gögnakökum í tengslum við heimsókn þína, missum við af möguleika til að greina frammistöðu og bæta ráðstafanir okkar.",
+	
+	"cookie_table_col_name": "Nafn",
+	"cookie_table_col_purpose": "Lýsing",
+	"cookie_table_col_processing_time": "Gildistími",
+	"cookie_table_col_provider": "Gjafir",
+	"cookie_table_col_type": "Tegund",
+	"cookie_table_col_link": "Tengill",
+	"cookie_table_col_link_find_out_more": "Tengill",
+	"cookie_table_col_category": "Flokkur",
+  
+	"processing_time_session": "Sessi",
+	"processing_time_persistent": "Varanleg",
+  
+	"cookie_type_1st_party": "Fyrsta aðila",
+	"cookie_type_3rd_party": "Þriðja aðila",
+  
+	"find_out_more": "Nánar"
+  }
+  

@@ -14,6 +14,7 @@ use Magento\Framework\Exception\LocalizedException;
 use Magento\Framework\Locale\ResolverInterface;
 use Magento\Framework\View\Asset\Repository as AssetRepository;
 use Magento\Framework\View\Element\Template;
+use Psr\Log\LoggerInterface;
 
 use Maisondunet\CookieConsent\Model\Config;
 
@@ -25,18 +26,21 @@ class CookieConsent extends Template
     private ResolverInterface $localeResolver;
     private AssetRepository $assetRepository;
     private Config $config;
+    private $logger;    
 
     public function __construct(
         ResolverInterface $localeResolver,
         AssetRepository $assetRepository,
         Template\Context $context,
         Config $config,
+        LoggerInterface $logger,
         array $data = []
     ) {
         parent::__construct($context, $data);
         $this->localeResolver = $localeResolver;
         $this->assetRepository = $assetRepository;
         $this->config = $config;
+        $this->logger = $logger;
     }
 
     public function getLocale():string
@@ -50,7 +54,15 @@ class CookieConsent extends Template
      */
     public function getTranslations(): string
     {
-        return $this->assetRepository->createAsset(self::TRANSLATION_FILE)->getContent();
+        try {
+            $content = $this->assetRepository->createAsset(self::TRANSLATION_FILE)->getContent();
+        } catch(Magento\Framework\View\Asset\File\NotFoundException $e) {
+            $content = $this->assetRepository->createAsset(self::TRANSLATION_FILE,["locale" => "en_US"])->getContent();
+            $localeCode = $this->getLocale();
+            $this->logger->critical("Maisondunet_CookieConsent:: the translation($localeCode) is missing and fallback to \"en_US\"");
+        }
+
+        return $content;
     }
 
     /**

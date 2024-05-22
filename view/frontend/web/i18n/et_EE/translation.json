@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Küpsiseadete häälestamine",
+  
+	"consent_modal_title": "Kasutame küpsiseid!",
+	"consent_modal_description": "See veebisait kasutab olulisi küpsiseid, et tagada selle õige toimimine, ja jälgimisküpsiseid, et mõista, kuidas te sellega suhtlete. Viimased seatakse alles pärast nõusoleku saamist.",
+	"consent_modal_primary_btn": "Nõustun",
+	"consent_modal_secondary_btn_settings": "Kohanda",
+	"consent_modal_secondary_btn_accept_necessary": "Nõustu vajalikega",
+  
+	"settings_modal_title": "Küpsiseadeadete seadistamine",
+	"settings_modal_save_settings_btn": "Salvesta seaded",
+	"settings_modal_accept_all_btn": "Nõustu kõigiga",
+	"settings_modal_reject_all_btn": "Nõustu vajalikega",
+	"settings_modal_close_btn_label": "Sulge",
+  
+	"settings_modal_before_consent_title": "Küpsiste kasutamine",
+	"settings_modal_before_consent_description": "Kasutame küpsiseid veebisaidi põhifunktsionaalsuse tagamiseks ja teie veebikogemuse parandamiseks. Iga kategooria kohta saate igal ajal valida sisse või välja lülitamise.",
+  
+	"settings_modal_after_consent_title": "Lisateave",
+	"settings_modal_after_consent_description": "Küpsisepoliitika ja teie valikute kohta lisateabe saamiseks võtke meiega ühendust.",
+  
+	"functionality_storage_title": "Funktsionaalsuse küpsised",
+	"functionality_storage_description": "Need küpsised on veebisaidi õige toimimise jaoks vajalikud. Ilma nende küpsisteta võib veebisait mitte korralikult toimida.",
+  
+	"personalization_storage_title": "Isikupärastamise küpsised",
+	"personalization_storage_description": "Isikupärastamise küpsised võivad kasutada kolmandate osapoolte küpsiseid, et aidata neil sisu isikupärastada ja jälgida kasutajaid erinevatel veebisaitidel ja seadmetes.",
+  
+	"security_storage_title": "Turvaküpsised",
+	"security_storage_description": "Turvaküpsised võimaldavad turvalisusega seotud teabe salvestamist, nagu autentimine, pettuste kaitse ja muud viisid kasutaja kaitseks.",
+  
+	"ad_storage_title": "Reklaamiküpsised",
+	"ad_storage_description": "Reklaamiküpsiseid kasutatakse meie või meie partnerite poolt, et näidata teile asjakohast sisu või reklaame nii meie saidil kui ka kolmandate osapoolte saitidel. See võimaldab meil luua profiile teie huvide põhjal, nn pseudonümiseeritud profiile. Selle teabe põhjal ei ole üldiselt võimalik teid otse isikuna tuvastada, kuna kasutatakse ainult pseudonümiseeritud andmeid. Kui te ei anna oma nõusolekut, ei saa te sisu ja reklaame, mis on kohandatud teie huvidele.",
+  
+	"analytics_storage_title": "Analüütikaküpsised",
+	"analytics_storage_description": "Analüütikaküpsised võimaldavad meil mõõta meie veebisaidi ja reklaamikampaaniate jõudlust. Kasutame neid küpsiseid selleks, et määrata meie veebisaidi külastuste ja külastuste allikate arv. Töötleme nende küpsiste kaudu saadud andmeid kokkuvõtlikult, ilma et kasutaksime tunnuseid, mis osutavad meie veebisaidi konkreetsetele kasutajatele. Kui keelate analüütikaküpsiste kasutamise oma külastuse suhtes, kaotame võime analüüsida jõudlust ja optimeerida meie meetmeid.",
+  
+	"cookie_table_col_name": "Nimi",
+	"cookie_table_col_purpose": "Kirjeldus",
+	"cookie_table_col_processing_time": "Aegumine",
+	"cookie_table_col_provider": "Pakkuja",
+	"cookie_table_col_type": "Tüüp",
+	"cookie_table_col_link": "Link",
+	"cookie_table_col_link_find_out_more": "Link",
+	"cookie_table_col_category": "Kategooria",
+  
+	"processing_time_session": "Seanss",
+	"processing_time_persistent": "Püsiv",
+  
+	"cookie_type_1st_party": "1. osapool",
+	"cookie_type_3rd_party": "3. osapool",
+  
+	"find_out_more": "loe rohkem"
+}
+  

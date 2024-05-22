@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Mipangilio ya Vidakuzi",
+  
+	"consent_modal_title": "Tunatumia Vidakuzi!",
+	"consent_modal_description": "Tovuti hii inatumia vidakuzi muhimu kuhakikisha uendeshaji wake sahihi na vidakuzi vya kufuatilia kuelewa jinsi unavyo interact nayo. Hivi vya pili vitawekwa tu baada ya ridhaa yako.",
+	"consent_modal_primary_btn": "Ninakubaliana",
+	"consent_modal_secondary_btn_settings": "Geuza",
+	"consent_modal_secondary_btn_accept_necessary": "Kubali Mahitaji",
+  
+	"settings_modal_title": "Mipangilio ya Vidakuzi",
+	"settings_modal_save_settings_btn": "Hifadhi Mipangilio",
+	"settings_modal_accept_all_btn": "Kubali Yote",
+	"settings_modal_reject_all_btn": "Kubali Mahitaji",
+	"settings_modal_close_btn_label": "Funga",
+  
+	"settings_modal_before_consent_title": "Matumizi ya Vidakuzi",
+	"settings_modal_before_consent_description": "Tunatumia vidakuzi kuhakikisha utendaji msingi wa tovuti yetu na kuboresha uzoefu wako mtandaoni. Unaweza kuchagua kwa kila jamii ikiwa utaingiza/utoe wakati wowote unavyotaka.",
+  
+	"settings_modal_after_consent_title": "Maelezo Zaidi",
+	"settings_modal_after_consent_description": "Kwa maswali yoyote kuhusu sera yangu ya vidakuzi na chaguzi zako, tafadhali wasiliana nasi.",
+  
+	"functionality_storage_title": "Vidakuzi vya Utendaji",
+	"functionality_storage_description": "Vidakuzi hivi ni muhimu kwa utendaji sahihi wa tovuti yetu. Bila hivyo, tovuti inaweza kutofanya kazi vizuri.",
+  
+	"personalization_storage_title": "Vidakuzi vya Kubinafsisha",
+	"personalization_storage_description": "Vidakuzi vya kibinafsisha vinaweza kutumia vidakuzi vya watu wa tatu ili kuwasaidia kubinafsisha yaliyomo na kufuatilia watumiaji kwenye tovuti tofauti na vifaa.",
+  
+	"security_storage_title": "Vidakuzi vya Usalama",
+	"security_storage_description": "Vidakuzi vya usalama huruhusu uhifadhi wa taarifa za usalama, kama uthibitishaji, ulinzi dhidi ya udanganyifu, na njia zingine za kulinda mtumiaji.",
+  
+	"ad_storage_title": "Vidakuzi vya Matangazo",
+	"ad_storage_description": "Vidakuzi vya matangazo hutumiwa na sisi au washirika wetu kuonyesha yaliyomo au matangazo yanayofaa kwenye tovuti yetu na kwenye tovuti za watu wa tatu. Hii huturuhusu kuunda maelezo kulingana na maslahi yako, yanayoitwa maelezo ya uwongo. Kulingana na habari hii, kwa ujumla haiwezekani kukutambua moja kwa moja kama mtu, kwani data iliyo na uwongo tu hutumiwa. Isipokuwa utoe idhini yako, hautapokea yaliyomo na matangazo yaliyobinafsishwa kulingana na maslahi yako.",
+  
+	"analytics_storage_title": "Vidakuzi vya Takwimu",
+	"analytics_storage_description": "Vidakuzi vya takwimu huturuhusu kupima utendaji wa tovuti yetu na kampeni zetu za matangazo. Tunavitumia kuhesabu idadi ya ziara na vyanzo vya ziara kwenye tovuti yetu. Tunaprocess data iliyopatikana kupitia vidakuzi hivi kwa ujumla, bila kutumia vitambulishi vinavyoelekeza kwa watumiaji maalum wa tovuti yetu. Ikiwa uta Lemaza matumizi ya vidakuzi vya takwimu kuhusiana na ziara yako, tunapoteza uwezo wa kuchambua utendaji na kuboresha hatua zetu.",
+  
+	"cookie_table_col_name": "Jina",
+	"cookie_table_col_purpose": "Maelezo",
+	"cookie_table_col_processing_time": "Muda wa Mchakato",
+	"cookie_table_col_provider": "Mtoaji",
+	"cookie_table_col_type": "Aina",
+	"cookie_table_col_link": "Kiungo",
+	"cookie_table_col_link_find_out_more": "Kiungo",
+	"cookie_table_col_category": "Jamii",
+  
+	"processing_time_session": "Kikao",
+	"processing_time_persistent": "Daima",
+  
+	"cookie_type_1st_party": "Wa Kwanza",
+	"cookie_type_3rd_party": "Wa Tatu",
+  
+	"find_out_more": "Pata Maelezo Zaidi"
+  }
+  

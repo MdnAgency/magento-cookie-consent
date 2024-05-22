@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Cookie beállítások",
+  
+	"consent_modal_title": "Sütik használata!",
+	"consent_modal_description": "Ez a weboldal elengedhetetlen sütiket használ a megfelelő működéshez, és nyomkövető sütiket annak megértéséhez, hogyan interakcionálsz vele. Utóbbiak csak a beleegyezésed után kerülnek beállításra.",
+	"consent_modal_primary_btn": "Elfogadom",
+	"consent_modal_secondary_btn_settings": "Testreszabás",
+	"consent_modal_secondary_btn_accept_necessary": "Csak elengedhetetlenek elfogadása",
+  
+	"settings_modal_title": "Cookie beállítások",
+	"settings_modal_save_settings_btn": "Beállítások mentése",
+	"settings_modal_accept_all_btn": "Mindent elfogad",
+	"settings_modal_reject_all_btn": "Csak elengedhetetlenek elfogadása",
+	"settings_modal_close_btn_label": "Bezárás",
+  
+	"settings_modal_before_consent_title": "Süti használat",
+	"settings_modal_before_consent_description": "Sütiket használunk a weboldal alapvető funkcióinak biztosításához és az online élményed javításához. Minden kategóriára bármikor kiválaszthatod, hogy engedélyezed vagy letiltod.",
+  
+	"settings_modal_after_consent_title": "További információk",
+	"settings_modal_after_consent_description": "Bármilyen kérdés esetén a sütikezelési irányelvekről és a választási lehetőségeidről kérlek, lépj kapcsolatba velünk.",
+  
+	"functionality_storage_title": "Funkcionalitási sütik",
+	"functionality_storage_description": "Ezek a sütik elengedhetetlenek weboldalunk megfelelő működéséhez. Ezek nélkül a weboldal lehet, hogy nem működik megfelelően.",
+  
+	"personalization_storage_title": "Személyre szabott sütik",
+	"personalization_storage_description": "A személyre szabott sütik harmadik fél sütiket is használhatnak azért, hogy segítsenek személyre szabni a tartalmat és követni a felhasználókat különböző webhelyeken és eszközökön.",
+  
+	"security_storage_title": "Biztonsági sütik",
+	"security_storage_description": "A biztonsági sütik lehetővé teszik a biztonsággal kapcsolatos információk tárolását, például az azonosítást, a csalás elleni védelmet és más módszereket a felhasználó védelmére.",
+  
+	"ad_storage_title": "Hirdetési sütik",
+	"ad_storage_description": "A hirdetési sütiket mi vagy partnereink használjuk, hogy releváns tartalmakat vagy hirdetéseket jelenítsünk meg mind az oldalunkon, mind harmadik fél webhelyein. Ez lehetővé teszi számunkra, hogy profilokat hozzunk létre az érdeklődésed alapján, úgynevezett pszeudonimizált profilokat. Ezek az információk alapján általában nem lehetséges közvetlenül azonosítani téged személyként, mivel csak pszeudonimizált adatokat használunk. Ha nem adod meg a hozzájárulásodat, nem fogsz olyan tartalmakat és hirdetéseket kapni, amelyek az érdeklődésednek megfelelnek.",
+  
+	"analytics_storage_title": "Elemzősütik",
+	"analytics_storage_description": "Az elemzősütik lehetővé teszik számunkra weboldalunk és reklámkampányaink teljesítményének mérését. Ezeket az adatokat általában összesítve dolgozzuk fel, anélkül, hogy azonosítókat használnánk, amelyek egyértelműen azonosítanák weboldalunk specifikus felhasználóit. Ha letiltod az elemzősütik használatát a látogatásod során, elveszítjük a teljesítmény elemzésének és intézkedéseink optimalizálásának lehetőségét.",
+  
+	"cookie_table_col_name": "Név",
+	"cookie_table_col_purpose": "Leírás",
+	"cookie_table_col_processing_time": "Lejárat",
+	"cookie_table_col_provider": "Szolgáltató",
+	"cookie_table_col_type": "Típus",
+	"cookie_table_col_link": "Link",
+	"cookie_table_col_link_find_out_more": "Link",
+	"cookie_table_col_category": "Kategória",
+  
+	"processing_time_session": "Munkamenet",
+	"processing_time_persistent": "Tartós",
+  
+	"cookie_type_1st_party": "Első fél",
+	"cookie_type_3rd_party": "Harmadik fél",
+  
+	"find_out_more": "További információ"
+  }
+  

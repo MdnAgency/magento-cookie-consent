@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Pengaturan Cookie",
+  
+	"consent_modal_title": "Kami menggunakan cookie!",
+	"consent_modal_description": "Situs web ini menggunakan cookie penting untuk memastikan operasinya yang benar dan cookie pelacakan untuk memahami bagaimana Anda berinteraksi dengannya. Yang terakhir ini akan diatur hanya setelah persetujuan.",
+	"consent_modal_primary_btn": "Saya setuju",
+	"consent_modal_secondary_btn_settings": "Sesuaikan",
+	"consent_modal_secondary_btn_accept_necessary": "Terima yang diperlukan",
+  
+	"settings_modal_title": "Pengaturan Cookie",
+	"settings_modal_save_settings_btn": "Simpan pengaturan",
+	"settings_modal_accept_all_btn": "Terima semua",
+	"settings_modal_reject_all_btn": "Terima yang diperlukan",
+	"settings_modal_close_btn_label": "Tutup",
+  
+	"settings_modal_before_consent_title": "Penggunaan Cookie",
+	"settings_modal_before_consent_description": "Kami menggunakan cookie untuk memastikan fungsionalitas dasar situs web dan meningkatkan pengalaman online Anda. Anda dapat memilih untuk setuju atau tidak setuju untuk setiap kategori kapan saja.",
+  
+	"settings_modal_after_consent_title": "Informasi lebih lanjut",
+	"settings_modal_after_consent_description": "Untuk pertanyaan terkait kebijakan cookie kami dan pilihan Anda, silakan hubungi kami.",
+  
+	"functionality_storage_title": "Cookie Fungsionalitas",
+	"functionality_storage_description": "Cookie ini diperlukan untuk fungsi yang tepat dari situs web kami. Tanpa cookie ini, situs web mungkin tidak berfungsi dengan baik.",
+  
+	"personalization_storage_title": "Cookie Personalisasi",
+	"personalization_storage_description": "Cookie personalisasi dapat menggunakan cookie pihak ketiga untuk membantu mempersonalisasi konten dan melacak pengguna di berbagai situs web dan perangkat.",
+  
+	"security_storage_title": "Cookie Keamanan",
+	"security_storage_description": "Cookie keamanan memungkinkan penyimpanan informasi terkait keamanan, seperti otentikasi, perlindungan penipuan, dan cara lain untuk melindungi pengguna.",
+  
+	"ad_storage_title": "Cookie Iklan",
+	"ad_storage_description": "Cookie iklan digunakan oleh kami atau mitra kami untuk menampilkan konten atau iklan yang relevan baik di situs kami maupun di situs pihak ketiga. Ini memungkinkan kami untuk membuat profil berdasarkan minat Anda, yang disebut profil pseudonim. Berdasarkan informasi ini, umumnya tidak mungkin untuk mengidentifikasi Anda secara langsung sebagai individu, karena hanya data pseudonim yang digunakan. Kecuali Anda menyatakan persetujuan Anda, Anda tidak akan menerima konten dan iklan yang disesuaikan dengan minat Anda.",
+  
+	"analytics_storage_title": "Cookie Analitik",
+	"analytics_storage_description": "Cookie analitik memungkinkan kami untuk mengukur kinerja situs web kami dan kampanye periklanan kami. Kami menggunakannya untuk menentukan jumlah kunjungan dan sumber kunjungan ke situs web kami. Kami memproses data yang diperoleh melalui cookie ini secara agregat, tanpa menggunakan pengidentifikasi yang menunjuk ke pengguna spesifik situs web kami. Jika Anda menonaktifkan penggunaan cookie analitik dalam kunjungan Anda, kami kehilangan kemampuan untuk menganalisis kinerja dan mengoptimalkan tindakan kami.",
+  
+	"cookie_table_col_name": "Nama",
+	"cookie_table_col_purpose": "Deskripsi",
+	"cookie_table_col_processing_time": "Kadaluarsa",
+	"cookie_table_col_provider": "Penyedia",
+	"cookie_table_col_type": "Tipe",
+	"cookie_table_col_link": "Link",
+	"cookie_table_col_link_find_out_more": "Link",
+	"cookie_table_col_category": "Kategori",
+  
+	"processing_time_session": "Sesi",
+	"processing_time_persistent": "Persisten",
+  
+	"cookie_type_1st_party": "Pihak pertama",
+	"cookie_type_3rd_party": "Pihak ketiga",
+  
+	"find_out_more": "Lihat lebih banyak"
+  }
+  

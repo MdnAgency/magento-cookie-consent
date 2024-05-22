@@ -1,0 +1,53 @@
+{
+	"modal_trigger_title": "Çerez ayarları",
+  
+	"consent_modal_title": "Çerez kullanıyoruz!",
+	"consent_modal_description": "Bu web sitesi, uygun işleyişini sağlamak için gerekli çerezleri ve sizinle etkileşiminizi anlamak için izleme çerezlerini kullanır. Sonuncusu, onayınız alındıktan sonra yalnızca ayarlanacaktır.",
+	"consent_modal_primary_btn": "Kabul ediyorum",
+	"consent_modal_secondary_btn_settings": "Özelleştir",
+	"consent_modal_secondary_btn_accept_necessary": "Gerekli olanı kabul et",
+  
+	"settings_modal_title": "Çerez ayarları",
+	"settings_modal_save_settings_btn": "Ayarları kaydet",
+	"settings_modal_accept_all_btn": "Hepsini kabul et",
+	"settings_modal_reject_all_btn": "Gerekli olanı kabul et",
+	"settings_modal_close_btn_label": "Kapat",
+  
+	"settings_modal_before_consent_title": "Çerez kullanımı",
+	"settings_modal_before_consent_description": "Web sitesinin temel işlevlerini sağlamak ve çevrimiçi deneyiminizi geliştirmek için çerezler kullanıyoruz. Her kategori için istediğiniz zaman tercih edebilirsiniz.",
+  
+	"settings_modal_after_consent_title": "Daha fazla bilgi",
+	"settings_modal_after_consent_description": "Çerezler ve tercihlerinizle ilgili herhangi bir sorunuz için lütfen bize başvurun.",
+  
+	"functionality_storage_title": "İşlevsellik çerezleri",
+	"functionality_storage_description": "Bu çerezler, web sitemizin düzgün çalışması için gereklidir. Bu çerezler olmadan, web sitesi düzgün çalışmayabilir.",
+  
+	"personalization_storage_title": "Kişiselleştirme çerezleri",
+	"personalization_storage_description": "Kişiselleştirme çerezleri, içeriği kişiselleştirmeye ve kullanıcıları farklı web siteleri ve cihazlar arasında izlemeye yardımcı olmak için üçüncü taraf çerezlerini kullanabilir.",
+  
+	"security_storage_title": "Güvenlik çerezleri",
+	"security_storage_description": "Güvenlik çerezleri, kimlik doğrulama, dolandırıcılık koruması ve kullanıcıyı korumak için diğer yöntemler gibi güvenlikle ilgili bilgilerin depolanmasını sağlar.",
+  
+	"ad_storage_title": "Reklam çerezleri",
+	"ad_storage_description": "Reklam çerezleri, ilgili içerik veya reklamları size göstermek için bizim veya ortaklarımız tarafından kullanılır. Bu, ilgi alanlarınıza dayalı profiller oluşturmamıza olanak tanır, bu profillere sözde psödönim profiller denir. Bu bilgilere dayanarak genellikle doğrudan bir kişi olarak sizi tanımlamak mümkün değildir, çünkü yalnızca psödönim veriler kullanılır. Onayınızı belirtmedikçe, ilgi alanlarınıza uygun içerik ve reklamlar alamazsınız.",
+  
+	"analytics_storage_title": "Analitik çerezler",
+	"analytics_storage_description": "Analitik çerezler, web sitemizin ve reklam kampanyalarımızın performansını ölçmemize olanak tanır. Onları, web sitemize yapılan ziyaretlerin sayısını ve kaynaklarını belirlemek için kullanırız. Bu çerezler aracılığıyla elde edilen verileri, web sitemizin belirli kullanıcılarını işaret eden tanımlayıcılar kullanmadan toplu olarak işleriz. Ziyaretinizle ilgili analitik çerezleri kullanımını devre dışı bırakırsanız, performansı analiz etme ve önlemlerimizi optimize etme yeteneğimizi kaybederiz.",
+  
+	"cookie_table_col_name": "Ad",
+	"cookie_table_col_purpose": "Açıklama",
+	"cookie_table_col_processing_time": "Sona erme",
+	"cookie_table_col_provider": "Sağlayıcı",
+	"cookie_table_col_type": "Tür",
+	"cookie_table_col_link": "Bağlantı",
+	"cookie_table_col_link_find_out_more": "Bağlantı",
+	"cookie_table_col_category": "Kategori",
+  
+	"processing_time_session": "Oturum",
+	"processing_time_persistent": "Kalıcı",
+  
+	"cookie_type_1st_party": "1. taraf",
+	"cookie_type_3rd_party": "3. taraf",
+  
+	"find_out_more": "Daha fazla bilgi al"
+}

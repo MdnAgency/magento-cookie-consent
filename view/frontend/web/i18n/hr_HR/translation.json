@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Postavke kolačića",
+  
+	"consent_modal_title": "Koristimo kolačiće!",
+	"consent_modal_description": "Ova web stranica koristi osnovne kolačiće kako bi osigurala njeno pravilno funkcioniranje i kolačiće za praćenje kako bi razumjela kako s njom interagirate. Potonji će biti postavljeni tek nakon pristanka.",
+	"consent_modal_primary_btn": "Slažem se",
+	"consent_modal_secondary_btn_settings": "Prilagodi",
+	"consent_modal_secondary_btn_accept_necessary": "Prihvati nužno",
+  
+	"settings_modal_title": "Postavke kolačića",
+	"settings_modal_save_settings_btn": "Spremi postavke",
+	"settings_modal_accept_all_btn": "Prihvati sve",
+	"settings_modal_reject_all_btn": "Prihvati nužno",
+	"settings_modal_close_btn_label": "Zatvori",
+  
+	"settings_modal_before_consent_title": "Upotreba kolačića",
+	"settings_modal_before_consent_description": "Koristimo kolačiće kako bismo osigurali osnovne funkcionalnosti web stranice i poboljšali vaše iskustvo na mreži. Za svaku kategoriju možete odabrati hoćete li se prijaviti/odjaviti kad god želite.",
+  
+	"settings_modal_after_consent_title": "Više informacija",
+	"settings_modal_after_consent_description": "Za bilo kakve upite u vezi s mojom politikom o kolačićima i vašim odabirima, kontaktirajte nas.",
+  
+	"functionality_storage_title": "Kolačići funkcionalnosti",
+	"functionality_storage_description": "Ovi kolačići su potrebni za pravilno funkcioniranje naše web stranice. Bez ovih kolačića, web stranica možda neće pravilno raditi.",
+  
+	"personalization_storage_title": "Kolačići prilagodbe",
+	"personalization_storage_description": "Kolačići prilagodbe mogu koristiti kolačiće trećih strana kako bi im pomogli personalizirati sadržaj i pratiti korisnike na različitim web lokacijama i uređajima.",
+  
+	"security_storage_title": "Kolačići sigurnosti",
+	"security_storage_description": "Kolačići sigurnosti omogućavaju pohranu sigurnosno povezanih informacija, poput autentifikacije, zaštite od prijevare i drugih načina zaštite korisnika.",
+  
+	"ad_storage_title": "Oglasi kolačići",
+	"ad_storage_description": "Kolačići oglasa koriste se od strane nas ili naših partnera kako bi vam prikazali relevantan sadržaj ili oglase kako na našoj web stranici, tako i na web stranicama trećih strana. To nam omogućuje stvaranje profila na temelju vaših interesa, tzv. pseudonimiziranih profila. Na temelju tih informacija, općenito nije moguće izravno vas identificirati kao osobu, jer se koriste samo pseudonimizirani podaci. Ako ne izrazite svoj pristanak, nećete primati sadržaj i oglase prilagođene vašim interesima.",
+  
+	"analytics_storage_title": "Kolačići analize",
+	"analytics_storage_description": "Kolačići analize omogućavaju nam mjerenje performansi naše web stranice i naših oglašivačkih kampanja. Koristimo ih kako bismo odredili broj posjeta i izvore posjeta naše web stranice. Podatke dobivene putem tih kolačića obrađujemo u agregiranom obliku, bez korištenja identifikatora koji upućuju na određene korisnike naše web stranice. Ako onemogućite upotrebu kolačića analize u vezi s vašim posjetom, gubimo sposobnost analiziranja performansi i optimiziranja naših mjera.",
+  
+	"cookie_table_col_name": "Ime",
+	"cookie_table_col_purpose": "Opis",
+	"cookie_table_col_processing_time": "Istjecanje",
+	"cookie_table_col_provider": "Davatelj",
+	"cookie_table_col_type": "Vrsta",
+	"cookie_table_col_link": "Poveznica",
+	"cookie_table_col_link_find_out_more": "Poveznica",
+	"cookie_table_col_category": "Kategorija",
+  
+	"processing_time_session": "Sesija",
+	"processing_time_persistent": "Trajno",
+  
+	"cookie_type_1st_party": "1. strana",
+	"cookie_type_3rd_party": "3. strana",
+  
+	"find_out_more": "saznajte više"
+  }
+  

@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Mga Setting ng Cookies",
+  
+	"consent_modal_title": "Gumagamit Kami ng Cookies!",
+	"consent_modal_description": "Ang website na ito ay gumagamit ng mga kinakailangang cookies upang tiyakin ang tamang pag-andar nito at mga cookies sa pagtutukoy upang maunawaan kung paano ka nakikipag-ugnayan dito. Ang mga huli ay itatayo lamang matapos ang iyong pahintulot.",
+	"consent_modal_primary_btn": "Sumasang-ayon ako",
+	"consent_modal_secondary_btn_settings": "Baguhin",
+	"consent_modal_secondary_btn_accept_necessary": "Tanggapin ang Kinakailangan",
+  
+	"settings_modal_title": "Mga Setting ng Cookies",
+	"settings_modal_save_settings_btn": "I-save ang mga Setting",
+	"settings_modal_accept_all_btn": "Tanggapin ang Lahat",
+	"settings_modal_reject_all_btn": "Tanggapin ang Kinakailangan",
+	"settings_modal_close_btn_label": "Isara",
+  
+	"settings_modal_before_consent_title": "Paggamit ng Cookies",
+	"settings_modal_before_consent_description": "Gumagamit kami ng cookies upang tiyakin ang mga pangunahing kakayahan ng website at mapabuti ang iyong karanasan sa online. Maaari mong piliin para sa bawat kategorya kung gusto mong sumali/oalis sa anumang oras.",
+  
+	"settings_modal_after_consent_title": "Karagdagang Impormasyon",
+	"settings_modal_after_consent_description": "Para sa anumang mga katanungan tungkol sa aking patakaran sa cookies at sa iyong mga pagpipilian, mangyaring makipag-ugnay sa amin.",
+  
+	"functionality_storage_title": "Cookies ng Pagganap",
+	"functionality_storage_description": "Ang mga cookies na ito ay kinakailangan para sa tamang pag-andar ng aming website. Nang walang mga ito, maaaring hindi maayos ang pag-andar ng website.",
+  
+	"personalization_storage_title": "Cookies ng Personalisasyon",
+	"personalization_storage_description": "Maaaring gamitin ng mga cookies ng personalisasyon ang mga cookies mula sa ikatlong partido upang tulungan silang personalisin ang nilalaman at subaybayan ang mga gumagamit sa iba't ibang mga website at mga aparato.",
+  
+	"security_storage_title": "Cookies ng Seguridad",
+	"security_storage_description": "Ang mga cookies sa seguridad ay nagbibigay-daan sa pag-iimbak ng impormasyon kaugnay ng seguridad, tulad ng pag-authenticate, proteksyon laban sa pandaraya, at iba pang paraan upang protektahan ang user.",
+  
+	"ad_storage_title": "Cookies ng Ad",
+	"ad_storage_description": "Ang mga cookies sa ad ay ginagamit ng amin o ng aming mga kasosyo upang ipakita sa iyo ang nauugnay na nilalaman o mga advertisement sa aming site at sa mga third-party sites. Ito ay nagbibigay-daan sa amin na lumikha ng mga profile batay sa iyong mga interes, na tinatawag na pseudonymized profiles. Batay sa impormasyong ito, karaniwan ay hindi posible na direkta kang makilala bilang isang tao, dahil ang tanging ginagamit na mga data ay pseudonymized. Maliban kung nagpapahayag ka ng iyong pahintulot, hindi ka makakatanggap ng nilalaman at mga advertisement na naaangkop sa iyong mga interes.",
+  
+	"analytics_storage_title": "Cookies ng Analytics",
+	"analytics_storage_description": "Ang mga cookies ng analytics ay nagbibigay-daan sa amin upang sukat ang pagganap ng aming website at ng aming mga kampanya sa advertising. Ginagamit namin ang mga ito upang tukuyin ang bilang ng mga pagbisita at mga pinagmulan ng mga pagbisita sa aming website. Ino-process namin ang mga datos na nakuhang ito sa pamamagitan ng mga cookies na ito sa aggregate, nang walang paggamit ng mga tagapag-identify na tumuturo sa partikular na mga user ng aming website. Kung hindi mo pinapayagan ang paggamit ng mga cookies sa analytics kaugnay ng iyong pagbisita, nawawala namin ang kakayahan na suriin ang pagganap at i-optimize ang aming mga hakbang.",
+	
+	"cookie_table_col_name": "Pangalan",
+	"cookie_table_col_purpose": "Paglalarawan",
+	"cookie_table_col_processing_time": "Oras ng Paggamot",
+	"cookie_table_col_provider": "Tagapagbigay",
+	"cookie_table_col_type": "Uri",
+	"cookie_table_col_link": "Link",
+	"cookie_table_col_link_find_out_more": "Link",
+	"cookie_table_col_category": "Kategorya",
+  
+	"processing_time_session": "Sesyon",
+	"processing_time_persistent": "Persistent",
+  
+	"cookie_type_1st_party": "Unang Partido",
+	"cookie_type_3rd_party": "Ikatlong Partido",
+  
+	"find_out_more": "Alamin ang Karagdagang Impormasyon"
+  }
+  

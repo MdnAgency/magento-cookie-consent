@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Configuració de galetes",
+  
+	"consent_modal_title": "Fem servir galetes!",
+	"consent_modal_description": "Aquest lloc web utilitza galetes essencials per garantir el seu correcte funcionament i galetes de seguiment per comprendre com interactueu amb ell. Aquestes últimes només es configuraran després del vostre consentiment.",
+	"consent_modal_primary_btn": "Estic d'acord",
+	"consent_modal_secondary_btn_settings": "Personalitzar",
+	"consent_modal_secondary_btn_accept_necessary": "Acceptar només les necessàries",
+  
+	"settings_modal_title": "Configuració de galetes",
+	"settings_modal_save_settings_btn": "Desar la configuració",
+	"settings_modal_accept_all_btn": "Acceptar-ho tot",
+	"settings_modal_reject_all_btn": "Acceptar només les necessàries",
+	"settings_modal_close_btn_label": "Tancar",
+  
+	"settings_modal_before_consent_title": "Ús de galetes",
+	"settings_modal_before_consent_description": "Utilitzem galetes per garantir les funcionalitats bàsiques del lloc web i millorar la vostra experiència en línia. Podeu triar per a cada categoria si voleu acceptar-les o rebutjar-les quan vulgueu.",
+  
+	"settings_modal_after_consent_title": "Més informació",
+	"settings_modal_after_consent_description": "Per a qualsevol consulta relacionada amb la meva política de galetes i les vostres opcions, poseu-vos en contacte amb nosaltres.",
+  
+	"functionality_storage_title": "Galetes de funcionalitat",
+	"functionality_storage_description": "Aquestes galetes són necessàries per al correcte funcionament del nostre lloc web. Sense aquestes galetes, el lloc web podria no funcionar correctament.",
+  
+	"personalization_storage_title": "Galetes de personalització",
+	"personalization_storage_description": "Les galetes de personalització poden utilitzar galetes de tercers per ajudar-les a personalitzar el contingut i seguir els usuaris a través de diferents llocs web i dispositius.",
+  
+	"security_storage_title": "Galetes de seguretat",
+	"security_storage_description": "Les galetes de seguretat permeten emmagatzemar informació relacionada amb la seguretat, com ara l'autenticació, la protecció contra frau i altres mitjans per protegir l'usuari.",
+  
+	"ad_storage_title": "Galetes publicitàries",
+	"ad_storage_description": "Les galetes publicitàries les utilitzem nosaltres o els nostres socis per mostrar-vos contingut o anuncis rellevants tant al nostre lloc com en llocs web de tercers. Això ens permet crear perfils basats en els vostres interessos, coneguts com a perfils pseudonimitzats. Amb aquesta informació, generalment no és possible identificar-vos directament com a persona, ja que només s'utilitzen dades pseudonimitzades. Excepte si doneu el vostre consentiment, no rebríeu contingut ni anuncis adaptats als vostres interessos.",
+  
+	"analytics_storage_title": "Galetes d'anàlisi",
+	"analytics_storage_description": "Les galetes d'anàlisi ens permeten mesurar el rendiment del nostre lloc web i les nostres campanyes publicitàries. Les utilitzem per determinar el nombre de visites i les fonts de visites al nostre lloc web. Processam les dades obtingudes a través d'aquestes galetes de manera agregada, sense utilitzar identificadors que apuntin a usuaris específics del nostre lloc web. Si desactiveu l'ús de galetes d'anàlisi en relació amb la vostra visita, perdrem la capacitat d'analitzar el rendiment i optimitzar les nostres mesures.",
+  
+	"cookie_table_col_name": "Nom",
+	"cookie_table_col_purpose": "Descripció",
+	"cookie_table_col_processing_time": "Caducitat",
+	"cookie_table_col_provider": "Proveïdor",
+	"cookie_table_col_type": "Tipus",
+	"cookie_table_col_link": "Enllaç",
+	"cookie_table_col_link_find_out_more": "Enllaç",
+	"cookie_table_col_category": "Categoria",
+  
+	"processing_time_session": "Sessió",
+	"processing_time_persistent": "Persistents",
+  
+	"cookie_type_1st_party": "De primera part",
+	"cookie_type_3rd_party": "De tercers",
+  
+	"find_out_more": "més informació"
+  }
+  

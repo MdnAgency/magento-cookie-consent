@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Cookieinställningar",
+  
+	"consent_modal_title": "Vi använder cookies!",
+	"consent_modal_description": "Denna webbplats använder nödvändiga cookies för att säkerställa dess korrekta funktion och spårningscookies för att förstå hur du interagerar med den. De senare kommer att ställas in endast efter samtycke.",
+	"consent_modal_primary_btn": "Jag godkänner",
+	"consent_modal_secondary_btn_settings": "Anpassa",
+	"consent_modal_secondary_btn_accept_necessary": "Acceptera nödvändiga",
+  
+	"settings_modal_title": "Cookieinställningar",
+	"settings_modal_save_settings_btn": "Spara inställningar",
+	"settings_modal_accept_all_btn": "Acceptera alla",
+	"settings_modal_reject_all_btn": "Acceptera nödvändiga",
+	"settings_modal_close_btn_label": "Stäng",
+  
+	"settings_modal_before_consent_title": "Cookieanvändning",
+	"settings_modal_before_consent_description": "Vi använder cookies för att säkerställa webbplatsens grundläggande funktioner och för att förbättra din online-upplevelse. Du kan välja att aktivera eller inaktivera varje kategori när du vill.",
+  
+	"settings_modal_after_consent_title": "Mer information",
+	"settings_modal_after_consent_description": "För frågor om min cookiepolicy och dina val, kontakta oss gärna.",
+  
+	"functionality_storage_title": "Funktionscookies",
+	"functionality_storage_description": "Dessa cookies är nödvändiga för vår webbplats korrekta funktion. Utan dessa cookies kanske webbplatsen inte fungerar korrekt.",
+  
+	"personalization_storage_title": "Anpassningscookies",
+	"personalization_storage_description": "Anpassningscookies kan använda tredjepartscookies för att hjälpa dem att anpassa innehåll och spåra användare över olika webbplatser och enheter.",
+  
+	"security_storage_title": "Säkerhetscookies",
+	"security_storage_description": "Säkerhetscookies gör det möjligt att lagra säkerhetsrelaterad information, som autentisering, bedrägeriskydd och andra medel för att skydda användaren.",
+  
+	"ad_storage_title": "Annonscookies",
+	"ad_storage_description": "Annonscookies används av oss eller våra partners för att visa dig relevant innehåll eller annonser både på vår webbplats och på tredjepartswebbplatser. Detta gör det möjligt för oss att skapa profiler baserade på dina intressen, så kallade pseudonymiserade profiler. Med denna information är det vanligtvis inte möjligt att direkt identifiera dig som person, eftersom endast pseudonymiserade data används. Om du inte ger ditt samtycke kommer du inte att få innehåll och annonser som är anpassade efter dina intressen.",
+  
+	"analytics_storage_title": "Analyscookies",
+	"analytics_storage_description": "Analyscookies gör det möjligt för oss att mäta prestandan för vår webbplats och våra reklamkampanjer. Vi använder dem för att bestämma antalet besök och källor till besök på vår webbplats. Vi behandlar de data som erhålls genom dessa cookies i samlad form, utan att använda identifikationsuppgifter som pekar på specifika användare av vår webbplats. Om du inaktiverar användningen av analyscookies i förhållande till ditt besök förlorar vi möjligheten att analysera prestanda och optimera våra åtgärder.",
+  
+	"cookie_table_col_name": "Namn",
+	"cookie_table_col_purpose": "Beskrivning",
+	"cookie_table_col_processing_time": "Utgång",
+	"cookie_table_col_provider": "Leverantör",
+	"cookie_table_col_type": "Typ",
+	"cookie_table_col_link": "Länk",
+	"cookie_table_col_link_find_out_more": "Länk",
+	"cookie_table_col_category": "Kategori",
+  
+	"processing_time_session": "Session",
+	"processing_time_persistent": "Permanent",
+  
+	"cookie_type_1st_party": "Förstaparts",
+	"cookie_type_3rd_party": "Tredjeparts",
+  
+	"find_out_more": "Läs mer"
+  }
+  

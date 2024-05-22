@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Cookie 設定",
+  
+	"consent_modal_title": "Cookie を使用しています！",
+	"consent_modal_description": "このウェブサイトは、正常な動作を保証するための必須の Cookie と、お客様がサイトとやり取りする方法を把握するためのトラッキング Cookie を使用しています。後者は同意後のみ設定されます。",
+	"consent_modal_primary_btn": "同意します",
+	"consent_modal_secondary_btn_settings": "カスタマイズ",
+	"consent_modal_secondary_btn_accept_necessary": "必要なものを受け入れる",
+  
+	"settings_modal_title": "Cookie 設定",
+	"settings_modal_save_settings_btn": "設定を保存",
+	"settings_modal_accept_all_btn": "すべて受け入れる",
+	"settings_modal_reject_all_btn": "必要なものを受け入れる",
+	"settings_modal_close_btn_label": "閉じる",
+  
+	"settings_modal_before_consent_title": "Cookie の使用",
+	"settings_modal_before_consent_description": "このウェブサイトは基本的な機能を確保し、オンライン体験を向上させるために Cookie を使用しています。各カテゴリについて、いつでも同意するか拒否するかを選択できます。",
+  
+	"settings_modal_after_consent_title": "詳細情報",
+	"settings_modal_after_consent_description": "Cookie ポリシーやお客様の選択に関する質問がある場合は、お問い合わせください。",
+  
+	"functionality_storage_title": "機能性の Cookie",
+	"functionality_storage_description": "これらの Cookie は、当ウェブサイトの適切な動作に必要です。これらの Cookie がないと、ウェブサイトが正常に機能しない場合があります。",
+  
+	"personalization_storage_title": "パーソナライズの Cookie",
+	"personalization_storage_description": "パーソナライズの Cookie は、コンテンツをパーソナライズし、異なるウェブサイトやデバイス間でユーザーを追跡するために、第三者の Cookie を使用する場合があります。",
+  
+	"security_storage_title": "セキュリティの Cookie",
+	"security_storage_description": "セキュリティの Cookie は、認証、不正防止などのセキュリティ関連情報を保存します。",
+  
+	"ad_storage_title": "広告の Cookie",
+	"ad_storage_description": "広告の Cookie は、当社または当社のパートナーが、当サイトおよび第三者サイトで関連するコンテンツや広告を表示するために使用されます。これにより、お客様の興味に基づいたプロファイル、いわゆる擬似的なプロファイルを作成できます。この情報に基づいて、擬似的なデータのみが使用されるため、通常、直接的にお客様を識別することはできません。同意しない限り、お客様の興味に合ったコンテンツや広告を受け取ることはできません。",
+  
+	"analytics_storage_title": "アナリティクスの Cookie",
+	"analytics_storage_description": "アナリティクスの Cookie は、当サイトと広告キャンペーンのパフォーマンスを測定します。これらを使用して、当サイトへの訪問数や訪問元を把握します。これらの Cookie で取得したデータは、特定のユーザーを指す識別子を使用せずに、集計されます。訪問に関連してアナリティクスの Cookie の使用を無効にすると、パフォーマンスの分析と対策の最適化ができなくなります。",
+  
+	"cookie_table_col_name": "名前",
+	"cookie_table_col_purpose": "説明",
+	"cookie_table_col_processing_time": "有効期限",
+	"cookie_table_col_provider": "プロバイダー",
+	"cookie_table_col_type": "タイプ",
+	"cookie_table_col_link": "リンク",
+	"cookie_table_col_link_find_out_more": "リンク",
+	"cookie_table_col_category": "カテゴリー",
+  
+	"processing_time_session": "セッション",
+	"processing_time_persistent": "永続的",
+  
+	"cookie_type_1st_party": "第一者",
+	"cookie_type_3rd_party": "第三者",
+  
+	"find_out_more": "詳細を確認"
+  }
+  

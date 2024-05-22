@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "הגדרות עוגיות",
+  
+	"consent_modal_title": "אנו משתמשים בעוגיות!",
+	"consent_modal_description": "אתר זה משתמש בעוגיות חיוניות כדי להבטיח את הפעולה התקינה שלו ובעוגיות מעקב כדי להבין איך אתה מתנהג עם זה. האחרות יוגדרו רק לאחר הסכמה.",
+	"consent_modal_primary_btn": "אני מסכים",
+	"consent_modal_secondary_btn_settings": "התאם אישית",
+	"consent_modal_secondary_btn_accept_necessary": "קבל חובה",
+  
+	"settings_modal_title": "הגדרות עוגיות",
+	"settings_modal_save_settings_btn": "שמור הגדרות",
+	"settings_modal_accept_all_btn": "קבל הכל",
+	"settings_modal_reject_all_btn": "קבל חובה",
+	"settings_modal_close_btn_label": "סגור",
+  
+	"settings_modal_before_consent_title": "שימוש בעוגיות",
+	"settings_modal_before_consent_description": "אנו משתמשים בעוגיות כדי להבטיח את הפונקציות הבסיסיות של האתר ולשפר את חוויית הגלישה המקוונת שלך. תוכל לבחור בכל קטגוריה להפעלה או כיבוי בכל עת שתרצה.",
+	
+	"settings_modal_after_consent_title": "מידע נוסף",
+	"settings_modal_after_consent_description": "לכל שאלה בנוגע למדיניות העוגיות שלנו ולבחירות שלך, נא צור קשר איתנו.",
+  
+	"functionality_storage_title": "עוגיות פונקציונליות",
+	"functionality_storage_description": "עוגיות אלו הן נחוצות לתפעול התקין של האתר שלנו. בלעדיהם, האתר עשוי שלא לעבוד כראוי.",
+	
+	"personalization_storage_title": "עוגיות אישיות",
+	"personalization_storage_description": "עוגיות אישיות עשויות להשתמש בעוגיות מצד שלישי כדי לעזור להם להתאים אישית תוכן ולעקוב אחר משתמשים בין אתרים ומכשירים שונים.",
+	
+	"security_storage_title": "עוגיות אבטחה",
+	"security_storage_description": "עוגיות אבטחה מאפשרות אחסון של מידע הקשור לאבטחה, כגון אימות, הגנה מפני הונאה, ואמצעים נוספים להגנת המשתמש.",
+	
+	"ad_storage_title": "עוגיות פרסום",
+	"ad_storage_description": "עוגיות פרסום משמשות על ידינו או על ידי שותפינו כדי להציג לך תוכן או מודעות רלוונטיות הן באתר שלנו והן באתרים של צדדים שלישיים. זה מאפשר לנו ליצור פרופילים בהתאם לתחומי העניין שלך, פרופילים הנקראים פסאודונימיים. בהתבסס על מידע זה, בדרך כלל אין אפשרות לזהות אותך ישירות כאדם, מאחר ונעשה שימוש בנתונים פסאודונימיים בלבד. למעט אם תביע את הסכמתך, לא תקבל תוכן ומודעות שמותאמים אישית אל תחומי העניין שלך.",
+	
+	"analytics_storage_title": "עוגיות ניתוח",
+	"analytics_storage_description": "עוגיות ניתוח מאפשרות לנו למדוד את ביצועי האתר שלנו ואת קמפייני הפרסום שלנו. אנו משתמשים בהן כדי לקבוע את מספר הביקורים ומקורות הביקורים לאתר שלנו. אנו מעבדים את הנתונים שנרכשים דרך עוגיות אלה בצורה כללית, בלי להשתמש במזהים המצביעים על משתמשים ספציפיים באתר שלנו. אם תבטל את השימוש בעוגיות ניתוח ביחס לביקור שלך, נאבד את היכולת לנתח את הביצועים ולייעל את האמצעים שלנו.",
+	
+	"cookie_table_col_name": "שם",
+	"cookie_table_col_purpose": "תיאור",
+	"cookie_table_col_processing_time": "תפוגה",
+	"cookie_table_col_provider": "ספק",
+	"cookie_table_col_type": "סוג",
+	"cookie_table_col_link": "קישור",
+	"cookie_table_col_link_find_out_more": "קישור",
+	"cookie_table_col_category": "קטגוריה",
+  
+	"processing_time_session": "סשן",
+	"processing_time_persistent": "עמיד",
+  
+	"cookie_type_1st_party": "צד ראשון",
+	"cookie_type_3rd_party": "צד שלישי",
+  
+	"find_out_more": "גלה עוד"
+}
+  

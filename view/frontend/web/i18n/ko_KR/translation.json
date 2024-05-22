@@ -1,0 +1,55 @@
+```json
+{
+  "modal_trigger_title": "쿠키 설정",
+
+  "consent_modal_title": "쿠키를 사용합니다!",
+  "consent_modal_description": "이 웹사이트는 필수 쿠키를 사용하여 올바르게 작동하고, 사용자가 어떻게 상호작용하는지 이해하기 위해 추적 쿠키를 사용합니다. 후자는 동의 후에만 설정됩니다.",
+  "consent_modal_primary_btn": "동의합니다",
+  "consent_modal_secondary_btn_settings": "맞춤 설정",
+  "consent_modal_secondary_btn_accept_necessary": "필수 항목만 수락",
+
+  "settings_modal_title": "쿠키 설정",
+  "settings_modal_save_settings_btn": "설정 저장",
+  "settings_modal_accept_all_btn": "모두 수락",
+  "settings_modal_reject_all_btn": "필수 항목만 수락",
+  "settings_modal_close_btn_label": "닫기",
+
+  "settings_modal_before_consent_title": "쿠키 사용",
+  "settings_modal_before_consent_description": "우리는 웹사이트의 기본 기능을 보장하고 온라인 경험을 향상시키기 위해 쿠키를 사용합니다. 언제든지 각 카테고리에 대해 선택하여 켜거나 끌 수 있습니다.",
+
+  "settings_modal_after_consent_title": "추가 정보",
+  "settings_modal_after_consent_description": "쿠키 정책 및 선택 사항에 대한 문의는 저희에게 연락하십시오.",
+
+  "functionality_storage_title": "기능 쿠키",
+  "functionality_storage_description": "이 쿠키들은 웹사이트의 올바른 작동을 위해 필요합니다. 이러한 쿠키가 없으면 웹사이트가 올바르게 작동하지 않을 수 있습니다.",
+
+  "personalization_storage_title": "개인화 쿠키",
+  "personalization_storage_description": "개인화 쿠키는 타사 쿠키를 사용하여 콘텐츠를 개인화하고 다양한 웹사이트 및 장치에서 사용자를 추적할 수 있습니다.",
+
+  "security_storage_title": "보안 쿠키",
+  "security_storage_description": "보안 쿠키는 인증, 사기 방지 및 기타 사용자 보호 수단과 같은 보안 관련 정보를 저장할 수 있게 합니다.",
+
+  "ad_storage_title": "광고 쿠키",
+  "ad_storage_description": "광고 쿠키는 우리 또는 우리의 파트너가 우리 사이트와 타사 사이트에서 관련 콘텐츠나 광고를 보여주기 위해 사용됩니다. 이를 통해 관심사 기반 프로필을 생성할 수 있습니다. 이 정보를 바탕으로 하여 일반적으로 가명 처리된 데이터만 사용되므로 직접적으로 식별할 수 없습니다. 동의하지 않는 한, 관심사에 맞춘 콘텐츠와 광고를 받지 않습니다.",
+
+  "analytics_storage_title": "분석 쿠키",
+  "analytics_storage_description": "분석 쿠키는 웹사이트와 광고 캠페인의 성과를 측정할 수 있게 합니다. 방문 수와 방문 소스를 파악하는 데 사용됩니다. 이 쿠키를 통해 얻은 데이터는 특정 사용자 식별자를 사용하지 않고 집계된 형태로 처리됩니다. 분석 쿠키를 비활성화하면 성능 분석 및 최적화 기능을 사용할 수 없습니다.",
+
+  "cookie_table_col_name": "이름",
+  "cookie_table_col_purpose": "설명",
+  "cookie_table_col_processing_time": "만료",
+  "cookie_table_col_provider": "제공자",
+  "cookie_table_col_type": "유형",
+  "cookie_table_col_link": "링크",
+  "cookie_table_col_link_find_out_more": "더 알아보기",
+  "cookie_table_col_category": "카테고리",
+
+  "processing_time_session": "세션",
+  "processing_time_persistent": "영구적",
+
+  "cookie_type_1st_party": "1차 쿠키",
+  "cookie_type_3rd_party": "3차 쿠키",
+
+  "find_out_more": "더 알아보기"
+}
+```

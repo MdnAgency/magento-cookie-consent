@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "إعدادات الكوكيز",
+  
+	"consent_modal_title": "نستخدم الكوكيز!",
+	"consent_modal_description": "يستخدم هذا الموقع الكوكيز الأساسية لضمان عمله بشكل صحيح وكوكيز التتبع لفهم كيفية تفاعلك معه. سيتم تعيين الأخيرة فقط بعد الموافقة.",
+	"consent_modal_primary_btn": "أوافق",
+	"consent_modal_secondary_btn_settings": "تخصيص",
+	"consent_modal_secondary_btn_accept_necessary": "قبول الضروري",
+  
+	"settings_modal_title": "إعدادات الكوكيز",
+	"settings_modal_save_settings_btn": "حفظ الإعدادات",
+	"settings_modal_accept_all_btn": "قبول الكل",
+	"settings_modal_reject_all_btn": "قبول الضروري",
+	"settings_modal_close_btn_label": "إغلاق",
+  
+	"settings_modal_before_consent_title": "استخدام الكوكيز",
+	"settings_modal_before_consent_description": "نستخدم الكوكيز لضمان الوظائف الأساسية للموقع وتعزيز تجربتك عبر الإنترنت. يمكنك اختيار كل فئة للتفعيل/التعطيل في أي وقت تريده.",
+  
+	"settings_modal_after_consent_title": "مزيد من المعلومات",
+	"settings_modal_after_consent_description": "لأي استفسارات تتعلق بسياسة الكوكيز وخياراتك، يرجى الاتصال بنا.",
+  
+	"functionality_storage_title": "كوكيز الوظائف",
+	"functionality_storage_description": "هذه الكوكيز ضرورية لعمل موقعنا بشكل صحيح. بدون هذه الكوكيز، قد لا يعمل الموقع بشكل صحيح.",
+  
+	"personalization_storage_title": "كوكيز التخصيص",
+	"personalization_storage_description": "قد تستخدم كوكيز التخصيص كوكيز طرف ثالث لمساعدتها على تخصيص المحتوى وتتبع المستخدمين عبر مواقع وأجهزة مختلفة.",
+  
+	"security_storage_title": "كوكيز الأمان",
+	"security_storage_description": "تسمح كوكيز الأمان بتخزين المعلومات المتعلقة بالأمان، مثل المصادقة، وحماية الاحتيال، ووسائل أخرى لحماية المستخدم.",
+  
+	"ad_storage_title": "كوكيز الإعلانات",
+	"ad_storage_description": "تُستخدم كوكيز الإعلانات من قبلنا أو من قبل شركائنا لعرض محتوى أو إعلانات ذات صلة بك سواء على موقعنا أو على مواقع طرف ثالث. هذا يمكننا من إنشاء ملفات تعريف بناءً على اهتماماتك، ما يسمى بالملفات الشخصية المستعارة. بناءً على هذه المعلومات، لا يمكن عادةً تحديد هويتك بشكل مباشر كشخص، حيث يتم استخدام البيانات المستعارة فقط. ما لم تعبر عن موافقتك، لن تتلقى محتوى وإعلانات مخصصة لاهتماماتك.",
+  
+	"analytics_storage_title": "كوكيز التحليلات",
+	"analytics_storage_description": "تسمح لنا كوكيز التحليلات بقياس أداء موقعنا وحملاتنا الإعلانية. نستخدمها لتحديد عدد الزيارات ومصادر الزيارات إلى موقعنا. نعالج البيانات التي نحصل عليها من خلال هذه الكوكيز بشكل مجمع، دون استخدام معرفات تشير إلى مستخدمين محددين لموقعنا. إذا قمت بتعطيل استخدام كوكيز التحليلات فيما يتعلق بزيارتك، نفقد القدرة على تحليل الأداء وتحسين تدابيرنا.",
+  
+	"cookie_table_col_name": "الاسم",
+	"cookie_table_col_purpose": "الوصف",
+	"cookie_table_col_processing_time": "الانتهاء",
+	"cookie_table_col_provider": "الموفر",
+	"cookie_table_col_type": "النوع",
+	"cookie_table_col_link": "الرابط",
+	"cookie_table_col_link_find_out_more": "الرابط",
+	"cookie_table_col_category": "الفئة",
+  
+	"processing_time_session": "الجلسة",
+	"processing_time_persistent": "مستمر",
+  
+	"cookie_type_1st_party": "طرف أول",
+	"cookie_type_3rd_party": "طرف ثالث",
+  
+	"find_out_more": "معرفة المزيد"
+  }
+  

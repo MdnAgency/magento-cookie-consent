@@ -1,0 +1,53 @@
+{
+  "modal_trigger_title": "Nastavenia súborov cookie",
+
+  "consent_modal_title": "Používame súbory cookie!",
+  "consent_modal_description": "Táto webová stránka používa nevyhnutné súbory cookie na zabezpečenie jej správneho fungovania a sledovacie súbory cookie na pochopenie, ako s ňou interagujete. Posledné budú nastavené iba po súhlase.",
+  "consent_modal_primary_btn": "Súhlasím",
+  "consent_modal_secondary_btn_settings": "Prispôsobiť",
+  "consent_modal_secondary_btn_accept_necessary": "Prijať nevyhnutné",
+
+  "settings_modal_title": "Nastavenia súborov cookie",
+  "settings_modal_save_settings_btn": "Uložiť nastavenia",
+  "settings_modal_accept_all_btn": "Prijať všetky",
+  "settings_modal_reject_all_btn": "Prijať nevyhnutné",
+  "settings_modal_close_btn_label": "Zatvoriť",
+
+  "settings_modal_before_consent_title": "Použitie súborov cookie",
+  "settings_modal_before_consent_description": "Používame súbory cookie na zabezpečenie základných funkcií webovej stránky a na zlepšenie vášho online zážitku. Pre každú kategóriu si môžete vybrať, či chcete súhlasiť alebo nie, kedykoľvek chcete.",
+
+  "settings_modal_after_consent_title": "Viac informácií",
+  "settings_modal_after_consent_description": "Pre akékoľvek otázky týkajúce sa mojej politiky súborov cookie a vašich možností nás prosím kontaktujte.",
+
+  "functionality_storage_title": "Funkčné súbory cookie",
+  "functionality_storage_description": "Tieto súbory cookie sú nevyhnutné pre správne fungovanie našej webovej stránky. Bez týchto súborov cookie nemusí webová stránka správne fungovať.",
+
+  "personalization_storage_title": "Personalizačné súbory cookie",
+  "personalization_storage_description": "Personalizačné súbory cookie môžu používať súbory cookie tretích strán na pomoc pri personalizácii obsahu a sledovaní používateľov na rôznych webových stránkach a zariadeniach.",
+
+  "security_storage_title": "Bezpečnostné súbory cookie",
+  "security_storage_description": "Bezpečnostné súbory cookie umožňujú ukladanie bezpečnostných informácií, ako je autentifikácia, ochrana proti podvodom a ďalšie prostriedky na ochranu používateľa.",
+
+  "ad_storage_title": "Reklamné súbory cookie",
+  "ad_storage_description": "Reklamné súbory cookie používame my alebo naši partneri na zobrazovanie relevantného obsahu alebo reklám na našej stránke aj na stránkach tretích strán. To nám umožňuje vytvárať profily na základe vašich záujmov, tzv. pseudonymizované profily. Na základe týchto informácií nie je možné priamo identifikovať vašu osobu, pretože sa používajú iba pseudonymizované údaje. Ak nevyjadríte svoj súhlas, nebudete dostávať obsah a reklamy prispôsobené vašim záujmom.",
+
+  "analytics_storage_title": "Analytické súbory cookie",
+  "analytics_storage_description": "Analytické súbory cookie nám umožňujú merať výkonnosť našej webovej stránky a našich reklamných kampaní. Používame ich na určenie počtu návštev a zdrojov návštev na našej webovej stránke. Dáta získané prostredníctvom týchto súborov cookie spracovávame v agregovanej forme, bez použitia identifikátorov, ktoré by ukazovali na konkrétnych používateľov našej webovej stránky. Ak zakážete používanie analytických súborov cookie v súvislosti s vašou návštevou, stratíme schopnosť analyzovať výkonnosť a optimalizovať naše opatrenia.",
+
+  "cookie_table_col_name": "Názov",
+  "cookie_table_col_purpose": "Popis",
+  "cookie_table_col_processing_time": "Vypršanie platnosti",
+  "cookie_table_col_provider": "Poskytovateľ",
+  "cookie_table_col_type": "Typ",
+  "cookie_table_col_link": "Odkaz",
+  "cookie_table_col_link_find_out_more": "Odkaz",
+  "cookie_table_col_category": "Kategória",
+
+  "processing_time_session": "Relácia",
+  "processing_time_persistent": "Trvalé",
+
+  "cookie_type_1st_party": "Prvá strana",
+  "cookie_type_3rd_party": "Tretia strana",
+
+  "find_out_more": "zistiť viac"
+}

@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Cookie设置",
+  
+	"consent_modal_title": "我们使用Cookie！",
+	"consent_modal_description": "本网站使用必要的Cookie确保其正常运行，并使用跟踪Cookie了解您的互动方式。后者仅在同意后设置。",
+	"consent_modal_primary_btn": "我同意",
+	"consent_modal_secondary_btn_settings": "自定义",
+	"consent_modal_secondary_btn_accept_necessary": "接受必要",
+  
+	"settings_modal_title": "Cookie设置",
+	"settings_modal_save_settings_btn": "保存设置",
+	"settings_modal_accept_all_btn": "全部接受",
+	"settings_modal_reject_all_btn": "接受必要",
+	"settings_modal_close_btn_label": "关闭",
+  
+	"settings_modal_before_consent_title": "Cookie使用",
+	"settings_modal_before_consent_description": "我们使用Cookie确保网站的基本功能，并增强您的在线体验。您可以为每个类别选择何时加入/退出。",
+  
+	"settings_modal_after_consent_title": "更多信息",
+	"settings_modal_after_consent_description": "如有关于Cookie政策及您的选择方面的任何疑问，请与我们联系。",
+  
+	"functionality_storage_title": "功能性Cookie",
+	"functionality_storage_description": "这些Cookie是网站正常运行所必需的。如果没有这些Cookie，网站可能无法正常工作。",
+  
+	"personalization_storage_title": "个性化Cookie",
+	"personalization_storage_description": "个性化Cookie可能使用第三方Cookie来帮助其个性化内容并跟踪用户在不同网站和设备上的活动。",
+  
+	"security_storage_title": "安全Cookie",
+	"security_storage_description": "安全Cookie允许存储与身份验证、欺诈保护等安全相关的信息，以及保护用户的其他方式。",
+  
+	"ad_storage_title": "广告Cookie",
+	"ad_storage_description": "广告Cookie由我们或我们的合作伙伴使用，向您展示与您的兴趣相关的内容或广告，无论是在我们的网站上还是在第三方网站上。这使我们能够基于您的兴趣创建个人资料，即所谓的匿名个人资料。根据此信息，通常不可能直接将您识别为个人，因为仅使用匿名化数据。除非您表示同意，否则您将不会收到根据您的兴趣定制的内容和广告。",
+  
+	"analytics_storage_title": "分析Cookie",
+	"analytics_storage_description": "分析Cookie允许我们测量网站和广告活动的性能。我们使用它们来确定访问我们网站的次数和访问来源。我们通过这些Cookie获取的数据是聚合的，不使用指向我们网站特定用户的标识符。如果您在访问期间禁用了对分析Cookie的使用，我们将失去分析性能和优化措施的能力。",
+  
+	"cookie_table_col_name": "名称",
+	"cookie_table_col_purpose": "描述",
+	"cookie_table_col_processing_time": "过期时间",
+	"cookie_table_col_provider": "提供者",
+	"cookie_table_col_type": "类型",
+	"cookie_table_col_link": "链接",
+	"cookie_table_col_link_find_out_more": "链接",
+	"cookie_table_col_category": "类别",
+  
+	"processing_time_session": "会话",
+	"processing_time_persistent": "持久",
+  
+	"cookie_type_1st_party": "第一方",
+	"cookie_type_3rd_party": "第三方",
+  
+	"find_out_more": "了解更多"
+  }
+  

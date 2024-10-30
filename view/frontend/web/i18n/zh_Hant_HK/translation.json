@@ -1,0 +1,54 @@
+{
+	"modal_trigger_title": "Cookie 設定",
+  
+	"consent_modal_title": "我們使用 Cookies！",
+	"consent_modal_description": "本網站使用必要的 Cookies 以確保其正常運作，以及追蹤 Cookies 以了解您如何與網站互動。後者僅在獲得同意後才會設置。",
+	"consent_modal_primary_btn": "我同意",
+	"consent_modal_secondary_btn_settings": "自訂",
+	"consent_modal_secondary_btn_accept_necessary": "接受必要的",
+  
+	"settings_modal_title": "Cookie 設定",
+	"settings_modal_save_settings_btn": "儲存設定",
+	"settings_modal_accept_all_btn": "接受所有",
+	"settings_modal_reject_all_btn": "接受必要的",
+	"settings_modal_close_btn_label": "關閉",
+  
+	"settings_modal_before_consent_title": "Cookie 使用",
+	"settings_modal_before_consent_description": "我們使用 Cookies 以確保網站的基本功能並提升您的線上體驗。您可以隨時選擇每個類別的選擇權。",
+  
+	"settings_modal_after_consent_title": "更多資訊",
+	"settings_modal_after_consent_description": "如對我們的 Cookie 政策及您的選擇有任何疑問，請聯絡我們。",
+  
+	"functionality_storage_title": "功能性 Cookies",
+	"functionality_storage_description": "這些 Cookies 是網站正常運行所必需的。沒有這些 Cookies，網站可能無法正常運行。",
+  
+	"personalization_storage_title": "個人化 Cookies",
+	"personalization_storage_description": "個人化 Cookies 可能使用第三方 Cookies 來幫助他們個人化內容並跨不同網站和設備追蹤使用者。",
+  
+	"security_storage_title": "安全 Cookies",
+	"security_storage_description": "安全 Cookies 允許儲存與安全相關的信息，如身份驗證、欺詐防護及其他保護使用者的方式。",
+  
+	"ad_storage_title": "廣告 Cookies",
+	"ad_storage_description": "廣告 Cookies 是我們或合作夥伴用來向您展示相關內容或廣告的，無論是在我們的網站上還是在第三方網站上。這使我們能夠根據您的興趣創建所謂的假名化檔案。根據這些信息，通常無法直接識別您，因為僅使用假名化數據。除非您表達同意，否則您將不會收到針對您興趣量身定制的內容和廣告。",
+  
+	"analytics_storage_title": "分析 Cookies",
+	"analytics_storage_description": "分析 Cookies 允許我們測量網站及廣告活動的效能。我們使用它們來確定網站的訪問次數和來源。如果您禁用與您訪問相關的分析 Cookies，我們將失去分析效能和優化我們措施的能力。",
+  
+	"cookie_table_col_name": "名稱",
+	"cookie_table_col_purpose": "描述",
+	"cookie_table_col_processing_time": "有效期限",
+	"cookie_table_col_provider": "提供者",
+	"cookie_table_col_type": "類型",
+	"cookie_table_col_link": "鏈接",
+	"cookie_table_col_link_find_out_more": "鏈接",
+	"cookie_table_col_category": "類別",
+  
+	"processing_time_session": "會話",
+	"processing_time_persistent": "持久性",
+  
+	"cookie_type_1st_party": "第一方",
+	"cookie_type_3rd_party": "第三方",
+  
+	"find_out_more": "了解更多"
+  }
+  

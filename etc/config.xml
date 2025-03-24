@@ -11,6 +11,9 @@
                 <force_consent>0</force_consent>
                 <page_scripts>1</page_scripts>
             </plugin_options>
+            <ui_options>
+                <include_default_stylesheets>1</include_default_stylesheets>
+            </ui_options>
             <auto_clear_options>
                 <enabled>1</enabled>
                 <strategy>clear_all_except_defined</strategy>

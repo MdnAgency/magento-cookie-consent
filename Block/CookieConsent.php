@@ -26,7 +26,7 @@ class CookieConsent extends Template
     private ResolverInterface $localeResolver;
     private AssetRepository $assetRepository;
     private Config $config;
-    private $logger;    
+    private $logger;
 
     public function __construct(
         ResolverInterface $localeResolver,
@@ -63,6 +63,19 @@ class CookieConsent extends Template
         }
 
         return $content;
+    }
+
+    public function getTranslationUrl(): string
+    {
+        try {
+            $url = $this->assetRepository->createAsset(self::TRANSLATION_FILE)->getUrl();
+        } catch(Magento\Framework\View\Asset\File\NotFoundException $e) {
+            $url = $this->assetRepository->createAsset(self::TRANSLATION_FILE,["locale" => "en_US"])->getUrl();
+            $localeCode = $this->getLocale();
+            $this->logger->critical("Maisondunet_CookieConsent:: the translation($localeCode) is missing and fallback to \"en_US\"");
+        }
+
+        return $url;
     }
 
     /**

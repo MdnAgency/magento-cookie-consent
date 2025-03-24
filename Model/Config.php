@@ -12,6 +12,7 @@ use Magento\Framework\App\Config\ScopeConfigInterface;
 use Magento\Framework\Serialize\SerializerInterface;
 use Magento\Store\Model\ScopeInterface;
 use Maisondunet\CookieConsent\Block\System\Config\Form\Field\CustomEvents;
+use Magento\Framework\View\Asset\Repository as AssetRepository;
 
 class Config
 {
@@ -19,11 +20,14 @@ class Config
 
     private ScopeConfigInterface $scopeConfig;
     private SerializerInterface $serializer;
+    private AssetRepository $assetRepository;
 
     public function __construct(
+        AssetRepository $assetRepository,
         ScopeConfigInterface $scopeConfig,
         SerializerInterface $serializer
     ) {
+        $this->assetRepository = $assetRepository;
         $this->scopeConfig = $scopeConfig;
         $this->serializer = $serializer;
     }
@@ -70,6 +74,15 @@ class Config
                 ];
             }
         }
+
+        // Handle stylesheet
+        $include_default_stylesheets = $cfg["ui_options"]["include_default_stylesheets"] ?? true;
+        if ($include_default_stylesheets) {
+            // If we load the default stylesheet
+            $cfg["ui_options"]["external_stylesheets"] = [$this->assetRepository->getUrlWithParams('Maisondunet_CookieConsent::css/cookie-consent.css', [])];
+        }
+        // cookie-consent.js does not loa css as expected by Magento, so we disable the default CSS loading strategy
+        $cfg["ui_options"]["include_default_stylesheets"] = false;
 
         $cfg["event_triggers"] = $event_triggers;
         unset($cfg["advanced"]);

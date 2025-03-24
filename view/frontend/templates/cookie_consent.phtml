@@ -7,15 +7,18 @@
  * @copyright   2023 LA MAISON DU NET
  * @link        https://www.maisondunet.com
  */
-/** @var \Maisondunet\CookieConsent\Block\CookieConsent $block */
-/** @var \Magento\Framework\Escaper $escaper */
+/** @var CookieConsent $block */
+/** @var Escaper $escaper */
+
+use Magento\Framework\Escaper;
+use Maisondunet\CookieConsent\Block\CookieConsent;
 
 ?>
-<script type="application/json" id="mdn_cookie_consent_i18n">
-    <?= $block->getTranslations(); ?>
-</script>
 <script type="text/javascript">
     window.cc_wrapper_config = <?= $block->getConfig()->getJson(); ?>;
+    window.cc_wrapper_config.locales = {
+        "<?= $escaper->escapeJs($block->getLocale()) ?>": "<?= $escaper->escapeJs($block->getTranslationUrl()) ?>"
+    };
 </script>
 <script src="<?= $block->getViewFileUrl("Maisondunet_CookieConsent::js/cookie-consent.min.js") ?>"></script>
 <script type="text/javascript">
@@ -23,11 +26,6 @@
     window.dataLayer = window.dataLayer || [];
     (function () {
       try {
-        let ccw = CookieConsentWrapper;
-        let locale = "<?= $escaper->escapeJs($block->getLocale()) ?>";
-        let i18n = JSON.parse(document.getElementById("mdn_cookie_consent_i18n").textContent);
-        ccw.addTranslations(locale, i18n);
-
         let gtag = function(){dataLayer.push(arguments);}
         let default_consent = {};
         cc_wrapper_config.storage_pool.forEach((s) => {

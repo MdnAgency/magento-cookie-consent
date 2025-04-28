@@ -71,3 +71,7 @@ ie :
 |----------------|-------------------|----------|---------------------------------------------------------------------------------------------|
 | fb_pixel_event | Ads, Analytics    | And      | GTM event "fb_pixel_event" is trigger when user give consent for Ads and Analytics storages |
 
+## Development
+
+Since v1.1.0, this module use a fork of [cookie-consent by 68publishers](https://github.com/68publishers/cookie-consent) available at https://github.com/MdnAgency/gtm-cookie-consent
+This fork customizes the translation loader for easier integration with magento. 
